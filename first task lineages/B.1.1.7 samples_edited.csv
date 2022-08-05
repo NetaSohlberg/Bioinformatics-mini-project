@@ -1,0 +1,1982 @@
+refpos,refvar,qvar,protein,variant,varclass,annotation,varname,freq,perce
+23403,A,G,S,D614G,SNP,Spike,S:D614G,554,100.000
+14408,C,T,NSP12b,P314L,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P314L,554,100.000
+24506,T,G,S,S982A,SNP,Spike,S:S982A,552,99.639
+24914,G,C,S,D1118H,SNP,Spike,S:D1118H,552,99.639
+23063,A,T,S,N501Y,SNP,Spike,S:N501Y,552,99.639
+5986,C,T,NSP3,F1089F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1089F,552,99.639
+27972,C,T,ORF8,Q27*,SNP_stop,ORF8 protein,ORF8:Q27*,551,99.458
+28111,A,G,ORF8,Y73C,SNP,ORF8 protein,ORF8:Y73C,551,99.458
+3037,C,T,NSP3,F106F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F106F,551,99.458
+28977,C,T,N,S235F,SNP,Nucleocapsid protein,N:S235F,551,99.458
+28280,GAT,CTA,N,D3L,SNP,Nucleocapsid protein,N:D3L,551,99.458
+14676,C,T,NSP12b,P403P,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P403P,551,99.458
+28280,GAT,TTA,N,D3L,SNP,Nucleocapsid protein,N:D3L,551,99.458
+6954,T,C,NSP3,I1412T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1412T,550,99.278
+5388,C,A,NSP3,A890D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A890D,550,99.278
+3267,C,T,NSP3,T183I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T183I,550,99.278
+913,C,T,NSP2,S36S,SNP_silent,Non-Structural protein 2,NSP2:S36S,550,99.278
+23271,C,A,S,A570D,SNP,Spike,S:A570D,550,99.278
+28048,G,T,ORF8,R52I,SNP,ORF8 protein,ORF8:R52I,549,99.097
+23604,C,A,S,P681H,SNP,Spike,S:P681H,549,99.097
+16176,T,C,NSP12b,T903T,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T903T,549,99.097
+15279,C,T,NSP12b,H604H,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:H604H,549,99.097
+241,C,T,5'UTR,241,extragenic,,5'UTR:241,547,98.736
+23709,C,T,S,T716I,SNP,Spike,S:T716I,547,98.736
+21993,ATT,.,S,Y145,deletion,Spike,S:Y145,530,95.668
+21991,TTA,.,S,Y145,deletion,Spike,S:Y145,530,95.668
+21995,TAC,.,S,Y145,deletion,Spike,S:Y145,530,95.668
+11288,TCTGGTTTT,.,NSP6,S106,deletion,Transmembrane protein,NSP6:S106,529,95.487
+11289,C,.,NSP6,S106,deletion_frameshift,Transmembrane protein,NSP6:S106,529,95.487
+21765,TACATG,.,S,H69,deletion,Spike,S:H69,524,94.585
+28881,GGG,AAC,N,RG203KR,SNP,Nucleocapsid protein,N:RG203KR,480,86.643
+28881,GGG,AAA,N,RG203KR,SNP,Nucleocapsid protein,N:RG203KR,480,86.643
+28273,A,.,3'UTR,28273,extragenic,,3'UTR:28273,424,76.534
+28095,A,T,ORF8,K68*,SNP_stop,ORF8 protein,ORF8:K68*,218,39.350
+15096,T,C,NSP12b,N543N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N543N,152,27.437
+14120,C,T,NSP12b,P218L,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P218L,88,15.884
+2110,C,T,NSP2,N435N,SNP_silent,Non-Structural protein 2,NSP2:N435N,80,14.440
+17615,A,G,NSP13,K460R,SNP,Helicase,NSP13:K460R,79,14.260
+28881,GGGG,AACC,N,RG203KP,SNP,Nucleocapsid protein,N:RG203KP,70,12.635
+5944,C,T,NSP3,D1075D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1075D,65,11.733
+29371,A,T,N,T366T,SNP_silent,Nucleocapsid protein,N:T366T,41,7.401
+29371,A,G,N,T366T,SNP_silent,Nucleocapsid protein,N:T366T,41,7.401
+15240,C,T,NSP12b,N591N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N591N,40,7.220
+7042,G,T,NSP3,M1441I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M1441I,40,7.220
+19816,G,T,NSP15,V66L,SNP,endoRNAse,NSP15:V66L,39,7.040
+27641,C,T,ORF7a,S83L,SNP,ORF7a protein,ORF7a:S83L,39,7.040
+24095,G,T,S,A845S,SNP,Spike,S:A845S,38,6.859
+12388,T,C,NSP8,D99D,SNP_silent,Non-Structural Protein 8,NSP8:D99D,37,6.679
+24904,C,T,S,I1114I,SNP_silent,Spike,S:I1114I,36,6.498
+8887,A,G,NSP4,L111L,SNP_silent,Transmembrane protein,NSP4:L111L,36,6.498
+20101,A,T,NSP15,S161C,SNP,endoRNAse,NSP15:S161C,36,6.498
+5020,C,T,NSP3,D767D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D767D,36,6.498
+24235,T,C,S,G891G,SNP_silent,Spike,S:G891G,36,6.498
+25766,T,C,ORF3a,M125T,SNP,ORF3a protein,ORF3a:M125T,36,6.498
+23946,A,G,S,K795R,SNP,Spike,S:K795R,36,6.498
+14220,C,A,NSP12b,D251E,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D251E,36,6.498
+10195,A,G,NSP5,E47E,SNP_silent,3C-like proteinase,NSP5:E47E,30,5.415
+28075,G,T,ORF8,C61F,SNP,ORF8 protein,ORF8:C61F,30,5.415
+28086,G,T,ORF8,A65S,SNP,ORF8 protein,ORF8:A65S,29,5.235
+13059,C,T,NSP10,T12I,SNP,Growth-factor-like protein,NSP10:T12I,29,5.235
+1544,G,T,NSP2,A247S,SNP,Non-Structural protein 2,NSP2:A247S,29,5.235
+25785,G,T,ORF3a,W131C,SNP,ORF3a protein,ORF3a:W131C,27,4.874
+2453,C,T,NSP2,L550F,SNP,Non-Structural protein 2,NSP2:L550F,27,4.874
+8084,G,A,NSP3,E1789K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1789K,27,4.874
+19390,C,T,NSP14,P451S,SNP,3'-to-5' exonuclease,NSP14:P451S,27,4.874
+17019,G,T,NSP13,E261D,SNP,Helicase,NSP13:E261D,26,4.693
+17019,G,C,NSP13,E261D,SNP,Helicase,NSP13:E261D,26,4.693
+20703,C,T,NSP16,Y15Y,SNP_silent,2'-O-ribose methyltransferase,NSP16:Y15Y,23,4.152
+7984,T,C,NSP3,D1755D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1755D,22,3.971
+25844,C,T,ORF3a,T151I,SNP,ORF3a protein,ORF3a:T151I,21,3.791
+29764,G,A,3'UTR,29764,extragenic,,3'UTR:29764,21,3.791
+21575,C,T,S,L5F,SNP,Spike,S:L5F,21,3.791
+11291,G,A,NSP6,G107S,SNP,Transmembrane protein,NSP6:G107S,20,3.610
+10376,C,T,NSP5,P108S,SNP,3C-like proteinase,NSP5:P108S,20,3.610
+11296,T,G,NSP6,F108L,SNP,Transmembrane protein,NSP6:F108L,20,3.610
+21766,A,C,S,I68I,SNP_silent,Spike,S:I68I,19,3.430
+16887,C,T,NSP13,Y217Y,SNP_silent,Helicase,NSP13:Y217Y,19,3.430
+22016,T,A,S,W152R,SNP,Spike,S:W152R,19,3.430
+7764,C,T,NSP3,S1682F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1682F,19,3.430
+22016,T,C,S,W152R,SNP,Spike,S:W152R,19,3.430
+24620,G,T,S,A1020S,SNP,Spike,S:A1020S,18,3.249
+11288,T,A,NSP6,S106T,SNP,Transmembrane protein,NSP6:S106T,18,3.249
+21234,C,T,NSP16,A192A,SNP_silent,2'-O-ribose methyltransferase,NSP16:A192A,18,3.249
+11497,C,T,NSP6,Y175Y,SNP_silent,Transmembrane protein,NSP6:Y175Y,18,3.249
+21234,C,A,NSP16,A192A,SNP_silent,2'-O-ribose methyltransferase,NSP16:A192A,18,3.249
+11758,C,T,NSP6,P262P,SNP_silent,Transmembrane protein,NSP6:P262P,18,3.249
+27494,C,T,ORF7a,P34L,SNP,ORF7a protein,ORF7a:P34L,18,3.249
+17496,A,G,NSP13,E420E,SNP_silent,Helicase,NSP13:E420E,18,3.249
+8950,C,T,NSP4,I132I,SNP_silent,Transmembrane protein,NSP4:I132I,17,3.069
+3589,C,T,NSP3,H290H,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:H290H,17,3.069
+21137,A,G,NSP16,K160R,SNP,2'-O-ribose methyltransferase,NSP16:K160R,17,3.069
+25906,G,T,ORF3a,G172C,SNP,ORF3a protein,ORF3a:G172C,17,3.069
+27577,C,T,ORF7a,Q62*,SNP_stop,ORF7a protein,ORF7a:Q62*,17,3.069
+7219,A,G,NSP3,L1500L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1500L,17,3.069
+25578,C,T,ORF3a,I62I,SNP_silent,ORF3a protein,ORF3a:I62I,16,2.888
+12970,C,T,NSP9,N95N,SNP_silent,ssRNA-binding protein,NSP9:N95N,15,2.708
+24109,C,T,S,L849L,SNP_silent,Spike,S:L849L,15,2.708
+28054,C,T,ORF8,S54L,SNP,ORF8 protein,ORF8:S54L,14,2.527
+16852,G,C,NSP13,G206R,SNP,Helicase,NSP13:G206R,14,2.527
+25135,G,T,S,K1191N,SNP,Spike,S:K1191N,14,2.527
+18606,C,T,NSP14,G189G,SNP_silent,3'-to-5' exonuclease,NSP14:G189G,14,2.527
+24358,C,A,S,G932G,SNP_silent,Spike,S:G932G,14,2.527
+17977,C,T,NSP13,L581F,SNP,Helicase,NSP13:L581F,14,2.527
+15672,G,T,NSP12b,E735D,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:E735D,14,2.527
+15720,C,T,NSP12b,D751D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D751D,14,2.527
+12162,A,G,NSP8,Q24R,SNP,Non-Structural Protein 8,NSP8:Q24R,14,2.527
+3638,G,T,NSP3,G307C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G307C,14,2.527
+21855,C,T,S,S98F,SNP,Spike,S:S98F,13,2.347
+7299,C,T,NSP3,A1527V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1527V,13,2.347
+21974,G,C,S,D138H,SNP,Spike,S:D138H,13,2.347
+23012,G,A,S,E484K,SNP,Spike,S:E484K,13,2.347
+25437,G,T,ORF3a,L15F,SNP,ORF3a protein,ORF3a:L15F,12,2.166
+18018,T,C,NSP13,R594R,SNP_silent,Helicase,NSP13:R594R,12,2.166
+5689,A,T,NSP3,S990S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S990S,12,2.166
+6285,C,T,NSP3,T1189I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1189I,12,2.166
+26858,C,T,M,F112F,SNP_silent,Membrane,M:F112F,12,2.166
+21764,A,.,S,A67,deletion_frameshift,Spike,S:A67,12,2.166
+17337,A,G,NSP13,T367T,SNP_silent,Helicase,NSP13:T367T,12,2.166
+21762,C,.,S,A67,deletion_frameshift,Spike,S:A67,12,2.166
+26060,C,T,ORF3a,T223I,SNP,ORF3a protein,ORF3a:T223I,12,2.166
+3176,C,T,NSP3,P153S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P153S,12,2.166
+26730,G,C,M,V70L,SNP,Membrane,M:V70L,12,2.166
+5689,A,G,NSP3,S990S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S990S,12,2.166
+15324,C,T,NSP12b,N619N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N619N,12,2.166
+12809,C,T,NSP9,L42F,SNP,ssRNA-binding protein,NSP9:L42F,12,2.166
+8603,T,C,NSP4,F17L,SNP,Transmembrane protein,NSP4:F17L,11,1.986
+44,C,T,5'UTR,44,extragenic,,5'UTR:44,11,1.986
+1825,C,T,NSP2,A340A,SNP_silent,Non-Structural protein 2,NSP2:A340A,11,1.986
+17862,C,T,NSP13,D542D,SNP_silent,Helicase,NSP13:D542D,11,1.986
+29585,C,T,ORF10,P10S,SNP,ORF10 protein,ORF10:P10S,11,1.986
+11195,C,T,NSP6,L75F,SNP,Transmembrane protein,NSP6:L75F,11,1.986
+19032,C,T,NSP14,D331D,SNP_silent,3'-to-5' exonuclease,NSP14:D331D,11,1.986
+18803,G,T,NSP14,S255I,SNP,3'-to-5' exonuclease,NSP14:S255I,11,1.986
+19524,C,T,NSP14,L495L,SNP_silent,3'-to-5' exonuclease,NSP14:L495L,11,1.986
+28725,C,T,N,P151L,SNP,Nucleocapsid protein,N:P151L,11,1.986
+2544,C,T,NSP2,T580I,SNP,Non-Structural protein 2,NSP2:T580I,11,1.986
+27389,C,T,3'UTR,27389,extragenic,,3'UTR:27389,11,1.986
+2284,G,A,NSP2,E493E,SNP_silent,Non-Structural protein 2,NSP2:E493E,11,1.986
+17533,G,T,NSP13,G433C,SNP,Helicase,NSP13:G433C,11,1.986
+27149,C,T,M,D209D,SNP_silent,Membrane,M:D209D,11,1.986
+26604,T,C,M,F28L,SNP,Membrane,M:F28L,11,1.986
+28271,A,.,3'UTR,28271,extragenic,,3'UTR:28271,11,1.986
+28271,A,T,3'UTR,28271,extragenic,,3'UTR:28271,11,1.986
+11974,T,C,NSP7,D44D,SNP_silent,Non-Structural Protein 7,NSP7:D44D,10,1.805
+6539,C,T,NSP3,H1274Y,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:H1274Y,10,1.805
+28877,AG,TC,N,S201S,SNP_silent,Nucleocapsid protein,N:S201S,10,1.805
+9891,C,T,NSP4,A446V,SNP,Transmembrane protein,NSP4:A446V,10,1.805
+1263,C,T,NSP2,T153M,SNP,Non-Structural protein 2,NSP2:T153M,10,1.805
+22225,G,T,S,S221S,SNP_silent,Spike,S:S221S,10,1.805
+27503,C,T,ORF7a,S37F,SNP,ORF7a protein,ORF7a:S37F,10,1.805
+11540,G,A,NSP6,V190I,SNP,Transmembrane protein,NSP6:V190I,10,1.805
+28876,C,T,N,S201S,SNP_silent,Nucleocapsid protein,N:S201S,10,1.805
+4890,C,T,NSP3,T724I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T724I,10,1.805
+15147,A,G,NSP12b,R560R,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:R560R,10,1.805
+12114,C,T,NSP8,S8F,SNP,Non-Structural Protein 8,NSP8:S8F,10,1.805
+12357,C,T,NSP8,T89I,SNP,Non-Structural Protein 8,NSP8:T89I,9,1.625
+29614,C,T,ORF10,C19C,SNP_silent,ORF10 protein,ORF10:C19C,9,1.625
+27384,T,C,ORF6,D61D,SNP_silent,ORF6 protein,ORF6:D61D,9,1.625
+5512,C,T,NSP3,N931N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N931N,9,1.625
+14724,C,T,NSP12b,F419F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F419F,9,1.625
+3100,T,C,NSP3,T127T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T127T,9,1.625
+3100,T,G,NSP3,T127T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T127T,9,1.625
+8371,G,T,NSP3,Q1884H,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q1884H,9,1.625
+8578,G,A,NSP4,K8K,SNP_silent,Transmembrane protein,NSP4:K8K,9,1.625
+2731,G,T,NSP3,K4N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K4N,9,1.625
+28068,G,.,ORF8,I58,deletion_frameshift,ORF8 protein,ORF8:I58,9,1.625
+4582,C,T,NSP3,N621N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N621N,9,1.625
+19269,C,T,NSP14,N410N,SNP_silent,3'-to-5' exonuclease,NSP14:N410N,9,1.625
+7083,C,T,NSP3,S1455F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1455F,9,1.625
+11956,C,T,NSP7,D38D,SNP_silent,Non-Structural Protein 7,NSP7:D38D,9,1.625
+14787,T,A,NSP12b,A440A,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A440A,9,1.625
+12936,A,G,NSP9,K84R,SNP,ssRNA-binding protein,NSP9:K84R,9,1.625
+26729,T,C,M,A69A,SNP_silent,Membrane,M:A69A,9,1.625
+28065,ATT,.,ORF8,I58,deletion,ORF8 protein,ORF8:I58,9,1.625
+18255,G,T,NSP14,M72I,SNP,3'-to-5' exonuclease,NSP14:M72I,8,1.444
+16394,C,A,NSP13,P53Q,SNP,Helicase,NSP13:P53Q,8,1.444
+21384,T,C,NSP16,Y242Y,SNP_silent,2'-O-ribose methyltransferase,NSP16:Y242Y,8,1.444
+28254,A,.,ORF8,F120,deletion_frameshift,ORF8 protein,ORF8:F120,8,1.444
+14400,G,T,NSP12b,V311V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V311V,8,1.444
+25621,G,T,ORF3a,V77F,SNP,ORF3a protein,ORF3a:V77F,8,1.444
+21765,TAC,.,S,I68,deletion,Spike,S:I68,8,1.444
+18788,C,T,NSP14,T250I,SNP,3'-to-5' exonuclease,NSP14:T250I,8,1.444
+21911,C,T,S,S116S,SNP_silent,Spike,S:S116S,8,1.444
+29524,T,C,N,T417T,SNP_silent,Nucleocapsid protein,N:T417T,8,1.444
+25534,G,T,ORF3a,V48F,SNP,ORF3a protein,ORF3a:V48F,8,1.444
+29730,C,T,3'UTR,29730,extragenic,,3'UTR:29730,8,1.444
+203,C,T,5'UTR,203,extragenic,,5'UTR:203,8,1.444
+11750,C,T,NSP6,L260F,SNP,Transmembrane protein,NSP6:L260F,8,1.444
+28146,C,T,ORF8,P85S,SNP,ORF8 protein,ORF8:P85S,8,1.444
+21767,CATG,.,S,I68,deletion_frameshift,Spike,S:I68,8,1.444
+20790,C,T,NSP16,V44V,SNP_silent,2'-O-ribose methyltransferase,NSP16:V44V,8,1.444
+4300,G,T,NSP3,V527V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V527V,8,1.444
+13057,A,C,NSP10,S11S,SNP_silent,Growth-factor-like protein,NSP10:S11S,8,1.444
+13279,T,C,NSP10,N85N,SNP_silent,Growth-factor-like protein,NSP10:N85N,8,1.444
+22576,T,A,S,F338L,SNP,Spike,S:F338L,7,1.264
+4913,G,T,NSP3,V732F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V732F,7,1.264
+26781,C,T,M,L87F,SNP,Membrane,M:L87F,7,1.264
+18647,C,T,NSP14,P203L,SNP,3'-to-5' exonuclease,NSP14:P203L,7,1.264
+27750,G,T,ORF7a,K119N,SNP,ORF7a protein,ORF7a:K119N,7,1.264
+29109,C,A,N,P279Q,SNP,Nucleocapsid protein,N:P279Q,7,1.264
+12713,C,A,NSP9,L9L,SNP_silent,ssRNA-binding protein,NSP9:L9L,7,1.264
+10323,A,G,NSP5,K90R,SNP,3C-like proteinase,NSP5:K90R,7,1.264
+23593,G,A,S,Q677Q,SNP_silent,Spike,S:Q677Q,7,1.264
+6255,C,T,NSP3,A1179V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1179V,7,1.264
+25096,C,T,S,N1178N,SNP_silent,Spike,S:N1178N,7,1.264
+18115,C,T,NSP14,H26Y,SNP,3'-to-5' exonuclease,NSP14:H26Y,7,1.264
+3124,T,C,NSP3,D135D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D135D,7,1.264
+19164,C,T,NSP14,D375D,SNP_silent,3'-to-5' exonuclease,NSP14:D375D,7,1.264
+161,A,G,5'UTR,161,extragenic,,5'UTR:161,7,1.264
+8137,G,T,NSP3,V1806V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1806V,7,1.264
+14220,C,T,NSP12b,D251D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D251D,7,1.264
+5513,G,A,NSP3,V932M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V932M,7,1.264
+28987,C,T,N,G238G,SNP_silent,Nucleocapsid protein,N:G238G,7,1.264
+9532,C,T,NSP4,F326F,SNP_silent,Transmembrane protein,NSP4:F326F,7,1.264
+27579,A,G,ORF7a,Q62Q,SNP_silent,ORF7a protein,ORF7a:Q62Q,7,1.264
+8290,C,T,NSP3,L1857L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1857L,7,1.264
+17207,A,G,NSP13,Y324C,SNP,Helicase,NSP13:Y324C,7,1.264
+3177,C,T,NSP3,P153L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P153L,7,1.264
+25913,G,A,ORF3a,G174D,SNP,ORF3a protein,ORF3a:G174D,7,1.264
+16575,C,T,NSP13,D113D,SNP_silent,Helicase,NSP13:D113D,7,1.264
+5812,C,T,NSP3,D1031D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1031D,7,1.264
+1380,C,T,NSP2,A192V,SNP,Non-Structural protein 2,NSP2:A192V,7,1.264
+27659,G,T,ORF7a,R89I,SNP,ORF7a protein,ORF7a:R89I,7,1.264
+29640,C,T,ORF10,A28V,SNP,ORF10 protein,ORF10:A28V,7,1.264
+28295,A,G,N,N8D,SNP,Nucleocapsid protein,N:N8D,7,1.264
+6706,C,T,NSP3,N1329N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1329N,7,1.264
+18351,T,C,NSP14,N104N,SNP_silent,3'-to-5' exonuclease,NSP14:N104N,7,1.264
+26305,C,T,E,L21F,SNP,Envelope,E:L21F,7,1.264
+24442,C,T,S,N960N,SNP_silent,Spike,S:N960N,7,1.264
+15132,T,C,NSP12b,S555S,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:S555S,7,1.264
+6166,G,A,NSP3,V1149V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1149V,6,1.083
+12071,G,A,NSP7,D77N,SNP,Non-Structural Protein 7,NSP7:D77N,6,1.083
+28391,C,T,N,R40C,SNP,Nucleocapsid protein,N:R40C,6,1.083
+9693,C,T,NSP4,A380V,SNP,Transmembrane protein,NSP4:A380V,6,1.083
+9418,T,C,NSP4,G288G,SNP_silent,Transmembrane protein,NSP4:G288G,6,1.083
+25603,C,T,ORF3a,Q70Q,SNP_silent,ORF3a protein,ORF3a:Q70Q,6,1.083
+25644,G,T,ORF3a,L84L,SNP_silent,ORF3a protein,ORF3a:L84L,6,1.083
+5250,A,G,NSP3,N844S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N844S,6,1.083
+18984,G,T,NSP14,M315I,SNP,3'-to-5' exonuclease,NSP14:M315I,6,1.083
+5907,C,T,NSP3,T1063I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1063I,6,1.083
+222,C,T,5'UTR,222,extragenic,,5'UTR:222,6,1.083
+29002,C,T,N,G243G,SNP_silent,Nucleocapsid protein,N:G243G,6,1.083
+2290,T,C,NSP2,V495V,SNP_silent,Non-Structural protein 2,NSP2:V495V,6,1.083
+2465,A,G,NSP2,K554E,SNP,Non-Structural protein 2,NSP2:K554E,6,1.083
+29648,G,T,ORF10,D31Y,SNP,ORF10 protein,ORF10:D31Y,6,1.083
+2509,C,T,NSP2,P568P,SNP_silent,Non-Structural protein 2,NSP2:P568P,6,1.083
+19782,A,G,NSP15,A54A,SNP_silent,endoRNAse,NSP15:A54A,6,1.083
+23191,C,T,S,F543F,SNP_silent,Spike,S:F543F,6,1.083
+3787,C,T,NSP3,Y356Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y356Y,6,1.083
+27059,C,T,M,Y179Y,SNP_silent,Membrane,M:Y179Y,6,1.083
+6414,A,G,NSP3,E1232G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1232G,6,1.083
+25572,C,T,ORF3a,S60S,SNP_silent,ORF3a protein,ORF3a:S60S,6,1.083
+3004,G,T,NSP3,E95D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E95D,6,1.083
+29555,C,T,3'UTR,29555,extragenic,,3'UTR:29555,6,1.083
+28857,G,T,N,R195I,SNP,Nucleocapsid protein,N:R195I,6,1.083
+24382,C,G,S,S940S,SNP_silent,Spike,S:S940S,6,1.083
+25513,C,T,ORF3a,L41F,SNP,ORF3a protein,ORF3a:L41F,6,1.083
+3939,G,T,NSP3,R407I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:R407I,6,1.083
+25046,C,T,S,P1162S,SNP,Spike,S:P1162S,6,1.083
+14547,G,A,NSP12b,K360K,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K360K,6,1.083
+25276,C,T,S,T1238T,SNP_silent,Spike,S:T1238T,6,1.083
+22104,G,T,S,G181V,SNP,Spike,S:G181V,6,1.083
+6040,C,T,NSP3,F1107F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1107F,6,1.083
+222,C,G,5'UTR,222,extragenic,,5'UTR:222,6,1.083
+27689,C,T,ORF7a,P99L,SNP,ORF7a protein,ORF7a:P99L,6,1.083
+12234,A,T,NSP8,E48V,SNP,Non-Structural Protein 8,NSP8:E48V,6,1.083
+27532,C,A,ORF7a,H47N,SNP,ORF7a protein,ORF7a:H47N,6,1.083
+27706,G,T,ORF7a,A105S,SNP,ORF7a protein,ORF7a:A105S,6,1.083
+24382,C,T,S,S940S,SNP_silent,Spike,S:S940S,6,1.083
+19518,G,T,NSP14,L493F,SNP,3'-to-5' exonuclease,NSP14:L493F,5,0.903
+29825,G,T,3'UTR,29825,extragenic,,3'UTR:29825,5,0.903
+10646,A,G,NSP5,T198A,SNP,3C-like proteinase,NSP5:T198A,5,0.903
+18105,G,T,NSP14,Q22H,SNP,3'-to-5' exonuclease,NSP14:Q22H,5,0.903
+26526,G,T,M,A2S,SNP,Membrane,M:A2S,5,0.903
+20148,C,T,NSP15,F176F,SNP_silent,endoRNAse,NSP15:F176F,5,0.903
+28849,C,T,N,N192N,SNP_silent,Nucleocapsid protein,N:N192N,5,0.903
+11124,C,T,NSP6,A51V,SNP,Transmembrane protein,NSP6:A51V,5,0.903
+23126,G,T,S,A522S,SNP,Spike,S:A522S,5,0.903
+25207,C,T,S,Y1215Y,SNP_silent,Spike,S:Y1215Y,5,0.903
+28960,G,T,N,Q229H,SNP,Nucleocapsid protein,N:Q229H,5,0.903
+28027,G,T,ORF8,W45L,SNP,ORF8 protein,ORF8:W45L,5,0.903
+28013,C,T,ORF8,H40H,SNP_silent,ORF8 protein,ORF8:H40H,5,0.903
+11083,G,T,NSP6,L37F,SNP,Transmembrane protein,NSP6:L37F,5,0.903
+23031,T,C,S,F490S,SNP,Spike,S:F490S,5,0.903
+26828,G,A,M,L102L,SNP_silent,Membrane,M:L102L,5,0.903
+29422,G,T,N,P383P,SNP_silent,Nucleocapsid protein,N:P383P,5,0.903
+8139,C,T,NSP3,S1807F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1807F,5,0.903
+9442,C,T,NSP4,C296C,SNP_silent,Transmembrane protein,NSP4:C296C,5,0.903
+16203,T,C,NSP12b,Y912Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y912Y,5,0.903
+20844,C,T,NSP16,P62P,SNP_silent,2'-O-ribose methyltransferase,NSP16:P62P,5,0.903
+26043,T,C,ORF3a,T217T,SNP_silent,ORF3a protein,ORF3a:T217T,5,0.903
+25855,G,T,ORF3a,D155Y,SNP,ORF3a protein,ORF3a:D155Y,5,0.903
+13,T,C,5'UTR,13,extragenic,,5'UTR:13,5,0.903
+23604,C,G,S,P681R,SNP,Spike,S:P681R,5,0.903
+13,T,A,5'UTR,13,extragenic,,5'UTR:13,5,0.903
+5284,C,T,NSP3,N855N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N855N,5,0.903
+16391,C,T,NSP13,A52V,SNP,Helicase,NSP13:A52V,5,0.903
+4704,C,T,NSP3,P662L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P662L,5,0.903
+25563,G,C,ORF3a,Q57H,SNP,ORF3a protein,ORF3a:Q57H,5,0.903
+14599,C,T,NSP12b,N377N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N377N,5,0.903
+9857,C,T,NSP4,V434V,SNP_silent,Transmembrane protein,NSP4:V434V,5,0.903
+4206,C,T,NSP3,A496V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A496V,5,0.903
+919,A,G,NSP2,Q38Q,SNP_silent,Non-Structural protein 2,NSP2:Q38Q,5,0.903
+13536,C,T,NSP12b,Y23Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y23Y,5,0.903
+29171,C,T,N,H300Y,SNP,Nucleocapsid protein,N:H300Y,5,0.903
+12923,C,T,NSP9,P80S,SNP,ssRNA-binding protein,NSP9:P80S,5,0.903
+186,C,T,5'UTR,186,extragenic,,5'UTR:186,5,0.903
+9856,G,T,NSP4,V434V,SNP_silent,Transmembrane protein,NSP4:V434V,5,0.903
+25350,C,T,S,P1263L,SNP,Spike,S:P1263L,5,0.903
+23120,G,T,S,A520S,SNP,Spike,S:A520S,5,0.903
+17736,T,C,NSP13,L500L,SNP_silent,Helicase,NSP13:L500L,5,0.903
+1594,C,T,NSP2,S263S,SNP_silent,Non-Structural protein 2,NSP2:S263S,5,0.903
+22812,A,G,S,K417R,SNP,Spike,S:K417R,5,0.903
+1218,C,T,NSP2,S138L,SNP,Non-Structural protein 2,NSP2:S138L,5,0.903
+28246,T,C,ORF8,L118S,SNP,ORF8 protein,ORF8:L118S,5,0.903
+23593,G,T,S,Q677H,SNP,Spike,S:Q677H,5,0.903
+29137,C,T,N,D288D,SNP_silent,Nucleocapsid protein,N:D288D,5,0.903
+21861,T,C,S,I100T,SNP,Spike,S:I100T,5,0.903
+27889,C,T,3'UTR,27889,extragenic,,3'UTR:27889,5,0.903
+3047,G,T,NSP3,D110Y,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:D110Y,5,0.903
+8181,A,G,NSP3,Q1821R,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q1821R,5,0.903
+25563,G,T,ORF3a,Q57H,SNP,ORF3a protein,ORF3a:Q57H,5,0.903
+18877,C,T,NSP14,C279C,SNP_silent,3'-to-5' exonuclease,NSP14:C279C,5,0.903
+23664,C,T,S,A701V,SNP,Spike,S:A701V,5,0.903
+13019,C,T,NSP9,R111R,SNP_silent,ssRNA-binding protein,NSP9:R111R,5,0.903
+19684,G,T,NSP15,V22L,SNP,endoRNAse,NSP15:V22L,5,0.903
+23621,G,T,S,V687L,SNP,Spike,S:V687L,5,0.903
+23659,T,C,S,L699L,SNP_silent,Spike,S:L699L,5,0.903
+1231,G,T,NSP2,K142N,SNP,Non-Structural protein 2,NSP2:K142N,5,0.903
+872,G,A,NSP2,D23N,SNP,Non-Structural protein 2,NSP2:D23N,5,0.903
+26464,C,T,E,L73L,SNP_silent,Envelope,E:L73L,5,0.903
+27765,C,T,ORF7b,L4F,SNP,ORF7b protein,ORF7b:L4F,5,0.903
+26828,G,C,M,L102L,SNP_silent,Membrane,M:L102L,5,0.903
+25658,C,T,ORF3a,T89I,SNP,ORF3a protein,ORF3a:T89I,5,0.903
+26981,A,G,M,G153G,SNP_silent,Membrane,M:G153G,5,0.903
+28681,G,T,N,E136D,SNP,Nucleocapsid protein,N:E136D,5,0.903
+25690,G,T,ORF3a,G100C,SNP,ORF3a protein,ORF3a:G100C,5,0.903
+6126,A,G,NSP3,E1136G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1136G,5,0.903
+6145,C,T,NSP3,F1142F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1142F,5,0.903
+10776,C,T,NSP5,P241L,SNP,3C-like proteinase,NSP5:P241L,5,0.903
+920,C,T,NSP2,Q38Q,SNP_silent,Non-Structural protein 2,NSP2:Q38Q,5,0.903
+26013,C,T,ORF3a,F207F,SNP_silent,ORF3a protein,ORF3a:F207F,5,0.903
+27860,A,G,ORF7b,Q35Q,SNP_silent,ORF7b protein,ORF7b:Q35Q,5,0.903
+16111,C,T,NSP12b,K881K,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K881K,5,0.903
+2973,C,T,NSP3,A85V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A85V,5,0.903
+29029,T,C,N,A252A,SNP_silent,Nucleocapsid protein,N:A252A,5,0.903
+27506,G,T,ORF7a,G38V,SNP,ORF7a protein,ORF7a:G38V,5,0.903
+26828,G,T,M,L102L,SNP_silent,Membrane,M:L102L,5,0.903
+5869,C,T,NSP3,Y1050Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1050Y,4,0.722
+10627,A,C,NSP5,A191A,SNP_silent,3C-like proteinase,NSP5:A191A,4,0.722
+18501,C,T,NSP14,Y154Y,SNP_silent,3'-to-5' exonuclease,NSP14:Y154Y,4,0.722
+2106,C,T,NSP2,T434I,SNP,Non-Structural protein 2,NSP2:T434I,4,0.722
+6026,C,T,NSP3,P1103S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1103S,4,0.722
+26787,G,A,M,G89S,SNP,Membrane,M:G89S,4,0.722
+22908,A,C,S,Y449S,SNP,Spike,S:Y449S,4,0.722
+269,G,A,NSP1,E2K,SNP,Leader protein,NSP1:E2K,4,0.722
+2056,A,G,NSP2,V417V,SNP_silent,Non-Structural protein 2,NSP2:V417V,4,0.722
+29140,G,T,N,Q289H,SNP,Nucleocapsid protein,N:Q289H,4,0.722
+25244,G,T,S,V1228L,SNP,Spike,S:V1228L,4,0.722
+26834,G,A,M,A104A,SNP_silent,Membrane,M:A104A,4,0.722
+1063,C,T,NSP2,F86F,SNP_silent,Non-Structural protein 2,NSP2:F86F,4,0.722
+29686,C,T,3'UTR,29686,extragenic,,3'UTR:29686,4,0.722
+27390,G,A,3'UTR,27390,extragenic,,3'UTR:27390,4,0.722
+642,A,G,NSP1,N126S,SNP,Leader protein,NSP1:N126S,4,0.722
+24130,C,T,S,N856N,SNP_silent,Spike,S:N856N,4,0.722
+29724,C,T,3'UTR,29724,extragenic,,3'UTR:29724,4,0.722
+25609,C,T,ORF3a,L73F,SNP,ORF3a protein,ORF3a:L73F,4,0.722
+29642,C,T,ORF10,Q29*,SNP_stop,ORF10 protein,ORF10:Q29*,4,0.722
+19887,A,G,NSP15,K89K,SNP_silent,endoRNAse,NSP15:K89K,4,0.722
+16468,C,T,NSP13,P78S,SNP,Helicase,NSP13:P78S,4,0.722
+28307,G,A,N,A12T,SNP,Nucleocapsid protein,N:A12T,4,0.722
+4438,C,T,NSP3,V573V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V573V,4,0.722
+25916,C,T,ORF3a,T175I,SNP,ORF3a protein,ORF3a:T175I,4,0.722
+13088,G,A,NSP10,D22N,SNP,Growth-factor-like protein,NSP10:D22N,4,0.722
+25611,C,T,ORF3a,L73L,SNP_silent,ORF3a protein,ORF3a:L73L,4,0.722
+26195,C,T,ORF3a,T268M,SNP,ORF3a protein,ORF3a:T268M,4,0.722
+28963,T,C,N,L230L,SNP_silent,Nucleocapsid protein,N:L230L,4,0.722
+21077,C,T,NSP16,T140I,SNP,2'-O-ribose methyltransferase,NSP16:T140I,4,0.722
+19263,C,T,NSP14,N408N,SNP_silent,3'-to-5' exonuclease,NSP14:N408N,4,0.722
+29769,C,T,3'UTR,29769,extragenic,,3'UTR:29769,4,0.722
+29466,C,T,N,A398V,SNP,Nucleocapsid protein,N:A398V,4,0.722
+20719,C,T,NSP16,M20M,SNP_silent,2'-O-ribose methyltransferase,NSP16:M20M,4,0.722
+25540,G,A,ORF3a,V50I,SNP,ORF3a protein,ORF3a:V50I,4,0.722
+25596,A,G,ORF3a,R68R,SNP_silent,ORF3a protein,ORF3a:R68R,4,0.722
+27874,C,T,ORF7b,T40I,SNP,ORF7b protein,ORF7b:T40I,4,0.722
+10408,C,T,NSP5,Y118Y,SNP_silent,3C-like proteinase,NSP5:Y118Y,4,0.722
+27752,C,T,ORF7a,T120I,SNP,ORF7a protein,ORF7a:T120I,4,0.722
+22487,G,C,S,E309Q,SNP,Spike,S:E309Q,4,0.722
+25614,C,T,ORF3a,S74S,SNP_silent,ORF3a protein,ORF3a:S74S,4,0.722
+11417,G,T,NSP6,V149F,SNP,Transmembrane protein,NSP6:V149F,4,0.722
+2857,C,A,NSP3,L46L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L46L,4,0.722
+1302,C,T,NSP2,T166I,SNP,Non-Structural protein 2,NSP2:T166I,4,0.722
+26139,C,T,ORF3a,I249I,SNP_silent,ORF3a protein,ORF3a:I249I,4,0.722
+25487,C,T,ORF3a,T32I,SNP,ORF3a protein,ORF3a:T32I,4,0.722
+23673,C,T,S,S704L,SNP,Spike,S:S704L,4,0.722
+27261,G,T,ORF6,R20S,SNP,ORF6 protein,ORF6:R20S,4,0.722
+22480,C,T,S,F306F,SNP_silent,Spike,S:F306F,4,0.722
+12202,G,A,NSP8,K37K,SNP_silent,Non-Structural Protein 8,NSP8:K37K,4,0.722
+4964,A,G,NSP3,T749A,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T749A,4,0.722
+20670,G,A,NSP16,A4A,SNP_silent,2'-O-ribose methyltransferase,NSP16:A4A,4,0.722
+10039,C,T,NSP4,T495T,SNP_silent,Transmembrane protein,NSP4:T495T,4,0.722
+6498,A,T,NSP3,K1260I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1260I,4,0.722
+3855,A,T,NSP3,K379M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K379M,4,0.722
+2878,C,T,NSP3,F53F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F53F,4,0.722
+27643,C,T,ORF7a,P84S,SNP,ORF7a protein,ORF7a:P84S,4,0.722
+17679,G,T,NSP13,T481T,SNP_silent,Helicase,NSP13:T481T,4,0.722
+13767,C,T,NSP12b,D100D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D100D,4,0.722
+3784,C,T,NSP3,V355V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V355V,4,0.722
+27390,G,C,3'UTR,27390,extragenic,,3'UTR:27390,4,0.722
+1912,C,T,NSP2,S369S,SNP_silent,Non-Structural protein 2,NSP2:S369S,4,0.722
+13712,A,G,NSP12b,K82R,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K82R,4,0.722
+1625,C,T,NSP2,L274F,SNP,Non-Structural protein 2,NSP2:L274F,4,0.722
+3140,C,T,NSP3,P141S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P141S,4,0.722
+18687,C,T,NSP14,C216C,SNP_silent,3'-to-5' exonuclease,NSP14:C216C,4,0.722
+11521,G,T,NSP6,M183I,SNP,Transmembrane protein,NSP6:M183I,4,0.722
+28733,A,G,N,N154D,SNP,Nucleocapsid protein,N:N154D,4,0.722
+23311,G,T,S,E583D,SNP,Spike,S:E583D,4,0.722
+29284,C,T,N,I337I,SNP_silent,Nucleocapsid protein,N:I337I,4,0.722
+29868,G,A,3'UTR,29868,extragenic,,3'UTR:29868,4,0.722
+18086,C,T,NSP14,T16I,SNP,3'-to-5' exonuclease,NSP14:T16I,4,0.722
+17058,G,T,NSP13,M274I,SNP,Helicase,NSP13:M274I,4,0.722
+4810,C,T,NSP3,S697S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S697S,4,0.722
+210,G,T,5'UTR,210,extragenic,,5'UTR:210,4,0.722
+6402,C,T,NSP3,P1228L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1228L,4,0.722
+29747,G,T,3'UTR,29747,extragenic,,3'UTR:29747,4,0.722
+15451,G,A,NSP12b,G662S,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:G662S,4,0.722
+18412,G,T,NSP14,V125F,SNP,3'-to-5' exonuclease,NSP14:V125F,4,0.722
+16466,C,T,NSP13,P77L,SNP,Helicase,NSP13:P77L,4,0.722
+21618,C,G,S,T19R,SNP,Spike,S:T19R,4,0.722
+2857,C,T,NSP3,L46L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L46L,4,0.722
+29284,C,A,N,I337I,SNP_silent,Nucleocapsid protein,N:I337I,4,0.722
+337,C,T,NSP1,R24R,SNP_silent,Leader protein,NSP1:R24R,4,0.722
+3431,G,A,NSP3,V238M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V238M,4,0.722
+8326,C,T,NSP3,D1869D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1869D,4,0.722
+25468,T,G,ORF3a,S26A,SNP,ORF3a protein,ORF3a:S26A,4,0.722
+2270,A,G,NSP2,K489E,SNP,Non-Structural protein 2,NSP2:K489E,4,0.722
+11332,A,G,NSP6,V120V,SNP_silent,Transmembrane protein,NSP6:V120V,4,0.722
+29724,C,A,3'UTR,29724,extragenic,,3'UTR:29724,4,0.722
+15543,G,T,NSP12b,T692T,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T692T,4,0.722
+26918,G,T,M,P132P,SNP_silent,Membrane,M:P132P,4,0.722
+17934,C,T,NSP13,T566T,SNP_silent,Helicase,NSP13:T566T,4,0.722
+29868,.,A,3'UTR,29868,extragenic,,3'UTR:29868,4,0.722
+9979,C,T,NSP4,L475L,SNP_silent,Transmembrane protein,NSP4:L475L,4,0.722
+11173,C,T,NSP6,L67L,SNP_silent,Transmembrane protein,NSP6:L67L,4,0.722
+2710,C,T,NSP2,L635L,SNP_silent,Non-Structural protein 2,NSP2:L635L,4,0.722
+29686,C,G,3'UTR,29686,extragenic,,3'UTR:29686,4,0.722
+29868,G,.,3'UTR,29868,extragenic,,3'UTR:29868,4,0.722
+6552,T,G,NSP3,M1278R,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M1278R,3,0.542
+23315,C,T,S,L585F,SNP,Spike,S:L585F,3,0.542
+9053,G,T,NSP4,V167L,SNP,Transmembrane protein,NSP4:V167L,3,0.542
+20762,C,T,NSP16,T35I,SNP,2'-O-ribose methyltransferase,NSP16:T35I,3,0.542
+11201,A,G,NSP6,T77A,SNP,Transmembrane protein,NSP6:T77A,3,0.542
+26895,C,T,M,H125Y,SNP,Membrane,M:H125Y,3,0.542
+15553,A,G,NSP12b,N696D,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N696D,3,0.542
+10870,G,T,NSP5,L272L,SNP_silent,3C-like proteinase,NSP5:L272L,3,0.542
+9344,C,T,NSP4,L264F,SNP,Transmembrane protein,NSP4:L264F,3,0.542
+19525,G,C,NSP14,D496H,SNP,3'-to-5' exonuclease,NSP14:D496H,3,0.542
+4181,G,T,NSP3,A488S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A488S,3,0.542
+25471,G,T,ORF3a,D27Y,SNP,ORF3a protein,ORF3a:D27Y,3,0.542
+27616,T,C,ORF7a,Y75H,SNP,ORF7a protein,ORF7a:Y75H,3,0.542
+27770,ATT,.,ORF7b,L6,deletion,ORF7b protein,ORF7b:L6,3,0.542
+4399,G,T,NSP3,M560I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M560I,3,0.542
+1811,G,T,NSP2,A336S,SNP,Non-Structural protein 2,NSP2:A336S,3,0.542
+3045,C,T,NSP3,P109L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P109L,3,0.542
+26052,T,G,ORF3a,S220R,SNP,ORF3a protein,ORF3a:S220R,3,0.542
+22432,C,T,S,D290D,SNP_silent,Spike,S:D290D,3,0.542
+9565,C,T,NSP4,F337F,SNP_silent,Transmembrane protein,NSP4:F337F,3,0.542
+8986,C,T,NSP4,D144D,SNP_silent,Transmembrane protein,NSP4:D144D,3,0.542
+23347,C,T,S,V595V,SNP_silent,Spike,S:V595V,3,0.542
+7869,C,T,NSP3,S1717L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1717L,3,0.542
+9484,A,G,NSP4,E310E,SNP_silent,Transmembrane protein,NSP4:E310E,3,0.542
+21699,C,T,S,S46L,SNP,Spike,S:S46L,3,0.542
+17622,A,G,NSP13,K462K,SNP_silent,Helicase,NSP13:K462K,3,0.542
+29711,G,T,3'UTR,29711,extragenic,,3'UTR:29711,3,0.542
+27676,G,T,ORF7a,E95*,SNP_stop,ORF7a protein,ORF7a:E95*,3,0.542
+27697,C,T,ORF7a,L102F,SNP,ORF7a protein,ORF7a:L102F,3,0.542
+26191,C,T,ORF3a,P267S,SNP,ORF3a protein,ORF3a:P267S,3,0.542
+1482,T,A,NSP2,F226Y,SNP,Non-Structural protein 2,NSP2:F226Y,3,0.542
+21998,C,T,S,H146Y,SNP,Spike,S:H146Y,3,0.542
+29742,G,T,3'UTR,29742,extragenic,,3'UTR:29742,3,0.542
+11292,GTTTT,.,NSP6,G107,deletion_frameshift,Transmembrane protein,NSP6:G107,3,0.542
+106,C,T,5'UTR,106,extragenic,,5'UTR:106,3,0.542
+28248,GATTTC,.,ORF8,D119,deletion,ORF8 protein,ORF8:D119,3,0.542
+1616,C,T,NSP2,L271F,SNP,Non-Structural protein 2,NSP2:L271F,3,0.542
+28881,G,T,N,R203M,SNP,Nucleocapsid protein,N:R203M,3,0.542
+29402,G,T,N,D377Y,SNP,Nucleocapsid protein,N:D377Y,3,0.542
+27382,GAT,CTC,ORF6,D61L,SNP,ORF6 protein,ORF6:D61L,3,0.542
+19220,C,T,NSP14,A394V,SNP,3'-to-5' exonuclease,NSP14:A394V,3,0.542
+4510,G,T,NSP3,V597V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V597V,3,0.542
+10029,C,T,NSP4,T492I,SNP,Transmembrane protein,NSP4:T492I,3,0.542
+8318,C,T,NSP3,P1867S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1867S,3,0.542
+17762,C,T,NSP13,A509V,SNP,Helicase,NSP13:A509V,3,0.542
+5041,A,G,NSP3,Q774Q,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q774Q,3,0.542
+22995,C,A,S,T478K,SNP,Spike,S:T478K,3,0.542
+22201,G,T,S,V213V,SNP_silent,Spike,S:V213V,3,0.542
+25624,C,T,ORF3a,H78Y,SNP,ORF3a protein,ORF3a:H78Y,3,0.542
+4754,C,T,NSP3,P679S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P679S,3,0.542
+12073,C,T,NSP7,D77D,SNP_silent,Non-Structural Protein 7,NSP7:D77D,3,0.542
+26873,C,T,M,N117N,SNP_silent,Membrane,M:N117N,3,0.542
+4844,T,C,NSP3,F709L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:F709L,3,0.542
+16260,C,T,NSP13,C8C,SNP_silent,Helicase,NSP13:C8C,3,0.542
+22917,T,G,S,L452R,SNP,Spike,S:L452R,3,0.542
+6633,C,T,NSP3,A1305V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1305V,3,0.542
+28077,G,T,ORF8,V62L,SNP,ORF8 protein,ORF8:V62L,3,0.542
+2536,C,T,NSP2,V577V,SNP_silent,Non-Structural protein 2,NSP2:V577V,3,0.542
+6525,C,T,NSP3,T1269I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1269I,3,0.542
+17562,G,T,NSP13,R442R,SNP_silent,Helicase,NSP13:R442R,3,0.542
+15654,C,T,NSP12b,D729D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D729D,3,0.542
+26110,C,T,ORF3a,P240S,SNP,ORF3a protein,ORF3a:P240S,3,0.542
+7165,C,T,NSP3,T1482T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1482T,3,0.542
+1938,C,T,NSP2,S378F,SNP,Non-Structural protein 2,NSP2:S378F,3,0.542
+29711,G,A,3'UTR,29711,extragenic,,3'UTR:29711,3,0.542
+10165,C,T,NSP5,Y37Y,SNP_silent,3C-like proteinase,NSP5:Y37Y,3,0.542
+29296,C,T,N,D341D,SNP_silent,Nucleocapsid protein,N:D341D,3,0.542
+17259,G,T,NSP13,E341D,SNP,Helicase,NSP13:E341D,3,0.542
+22687,C,T,S,S375S,SNP_silent,Spike,S:S375S,3,0.542
+28209,G,T,ORF8,E106*,SNP_stop,ORF8 protein,ORF8:E106*,3,0.542
+27297,C,T,ORF6,I32I,SNP_silent,ORF6 protein,ORF6:I32I,3,0.542
+26176,C,T,ORF3a,P262S,SNP,ORF3a protein,ORF3a:P262S,3,0.542
+7108,C,T,NSP3,Y1463Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1463Y,3,0.542
+8653,G,T,NSP4,M33I,SNP,Transmembrane protein,NSP4:M33I,3,0.542
+4201,G,T,NSP3,M494I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M494I,3,0.542
+4021,C,T,NSP3,N434N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N434N,3,0.542
+18555,C,T,NSP14,D172D,SNP_silent,3'-to-5' exonuclease,NSP14:D172D,3,0.542
+9391,C,T,NSP4,D279D,SNP_silent,Transmembrane protein,NSP4:D279D,3,0.542
+22093,G,T,S,M177I,SNP,Spike,S:M177I,3,0.542
+347,G,A,NSP1,V28I,SNP,Leader protein,NSP1:V28I,3,0.542
+15783,C,T,NSP12b,N772N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N772N,3,0.542
+29700,A,G,3'UTR,29700,extragenic,,3'UTR:29700,3,0.542
+10279,C,T,NSP5,L75L,SNP_silent,3C-like proteinase,NSP5:L75L,3,0.542
+29774,C,T,3'UTR,29774,extragenic,,3'UTR:29774,3,0.542
+21252,T,C,NSP16,N198N,SNP_silent,2'-O-ribose methyltransferase,NSP16:N198N,3,0.542
+6548,C,T,NSP3,D1276D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1276D,3,0.542
+1968,C,T,NSP2,T388I,SNP,Non-Structural protein 2,NSP2:T388I,3,0.542
+29762,C,T,3'UTR,29762,extragenic,,3'UTR:29762,3,0.542
+8170,A,G,NSP3,S1817S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1817S,3,0.542
+28153,C,T,ORF8,T87I,SNP,ORF8 protein,ORF8:T87I,3,0.542
+28250,.,G,ORF8,D119,insertion_frameshift,ORF8 protein,ORF8:D119,3,0.542
+4331,C,T,NSP3,I537I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I537I,3,0.542
+8216,G,T,NSP3,V1833F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1833F,3,0.542
+21676,C,T,S,Y38Y,SNP_silent,Spike,S:Y38Y,3,0.542
+28739,G,T,N,A156S,SNP,Nucleocapsid protein,N:A156S,3,0.542
+4015,A,G,NSP3,T432T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T432T,3,0.542
+4999,C,T,NSP3,N760N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N760N,3,0.542
+18981,C,T,NSP14,H314H,SNP_silent,3'-to-5' exonuclease,NSP14:H314H,3,0.542
+3037,C,.,NSP3,F106,deletion_frameshift,"Predicted phosphoesterase, papain-like proteinase",NSP3:F106,3,0.542
+24993,A,C,S,E1144A,SNP,Spike,S:E1144A,3,0.542
+7200,C,T,NSP3,S1494L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1494L,3,0.542
+29870,C,A,3'UTR,29870,extragenic,,3'UTR:29870,3,0.542
+22103,G,C,S,G181R,SNP,Spike,S:G181R,3,0.542
+26313,C,T,E,F23F,SNP_silent,Envelope,E:F23F,3,0.542
+25587,C,T,ORF3a,L65L,SNP_silent,ORF3a protein,ORF3a:L65L,3,0.542
+22017,G,T,S,W152L,SNP,Spike,S:W152L,3,0.542
+19086,G,T,NSP14,K349N,SNP,3'-to-5' exonuclease,NSP14:K349N,3,0.542
+18060,C,T,NSP14,L7L,SNP_silent,3'-to-5' exonuclease,NSP14:L7L,3,0.542
+29215,C,T,N,F314F,SNP_silent,Nucleocapsid protein,N:F314F,3,0.542
+27294,C,T,ORF6,Y31Y,SNP_silent,ORF6 protein,ORF6:Y31Y,3,0.542
+5611,T,C,NSP3,G964G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G964G,3,0.542
+2881,C,T,NSP3,A54A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A54A,3,0.542
+2061,C,T,NSP2,A419V,SNP,Non-Structural protein 2,NSP2:A419V,3,0.542
+878,C,T,NSP2,L24L,SNP_silent,Non-Structural protein 2,NSP2:L24L,3,0.542
+11182,T,C,NSP6,F70F,SNP_silent,Transmembrane protein,NSP6:F70F,3,0.542
+26031,G,T,ORF3a,Q213H,SNP,ORF3a protein,ORF3a:Q213H,3,0.542
+29690,G,T,3'UTR,29690,extragenic,,3'UTR:29690,3,0.542
+14213,A,G,NSP12b,D249G,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D249G,3,0.542
+6543,C,T,NSP3,T1275I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1275I,3,0.542
+29445,C,T,N,T391I,SNP,Nucleocapsid protein,N:T391I,3,0.542
+27996,G,T,ORF8,D35Y,SNP,ORF8 protein,ORF8:D35Y,3,0.542
+25350,C,A,S,P1263Q,SNP,Spike,S:P1263Q,3,0.542
+18957,T,C,NSP14,N306N,SNP_silent,3'-to-5' exonuclease,NSP14:N306N,3,0.542
+6754,T,C,NSP3,R1345R,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:R1345R,3,0.542
+3872,A,G,NSP3,I385V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I385V,3,0.542
+28237,G,T,ORF8,R115L,SNP,ORF8 protein,ORF8:R115L,3,0.542
+19900,G,A,NSP15,A94T,SNP,endoRNAse,NSP15:A94T,3,0.542
+29670,C,T,ORF10,T38I,SNP,ORF10 protein,ORF10:T38I,3,0.542
+8991,C,T,NSP4,A146V,SNP,Transmembrane protein,NSP4:A146V,3,0.542
+9738,G,A,NSP4,S395N,SNP,Transmembrane protein,NSP4:S395N,3,0.542
+403,T,C,NSP1,L46L,SNP_silent,Leader protein,NSP1:L46L,3,0.542
+20233,C,T,NSP15,P205S,SNP,endoRNAse,NSP15:P205S,3,0.542
+3092,C,T,NSP3,P125S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P125S,3,0.542
+23895,C,T,S,T778I,SNP,Spike,S:T778I,3,0.542
+23708,AC,GT,S,T716V,SNP,Spike,S:T716V,3,0.542
+17766,C,T,NSP13,V510V,SNP_silent,Helicase,NSP13:V510V,3,0.542
+1304,G,A,NSP2,E167K,SNP,Non-Structural protein 2,NSP2:E167K,3,0.542
+29520,C,T,N,S416L,SNP,Nucleocapsid protein,N:S416L,3,0.542
+27739,C,T,ORF7a,L116F,SNP,ORF7a protein,ORF7a:L116F,3,0.542
+23312,A,G,S,I584V,SNP,Spike,S:I584V,3,0.542
+21440,C,T,NSP16,S261F,SNP,2'-O-ribose methyltransferase,NSP16:S261F,3,0.542
+22716,CT,AC,S,T385N,SNP,Spike,S:T385N,3,0.542
+27979,A,T,ORF8,Q29L,SNP,ORF8 protein,ORF8:Q29L,3,0.542
+24865,C,T,S,H1101H,SNP_silent,Spike,S:H1101H,3,0.542
+6151,C,T,NSP3,D1144D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1144D,3,0.542
+26951,G,T,M,V143V,SNP_silent,Membrane,M:V143V,3,0.542
+27754,G,T,ORF7a,E121*,SNP_stop,ORF7a protein,ORF7a:E121*,3,0.542
+2268,C,T,NSP2,A488V,SNP,Non-Structural protein 2,NSP2:A488V,3,0.542
+3416,A,G,NSP3,K233E,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K233E,3,0.542
+12747,C,T,NSP9,T21I,SNP,ssRNA-binding protein,NSP9:T21I,3,0.542
+18651,G,T,NSP14,E204D,SNP,3'-to-5' exonuclease,NSP14:E204D,3,0.542
+10717,T,C,NSP5,N221N,SNP_silent,3C-like proteinase,NSP5:N221N,3,0.542
+6713,G,A,NSP3,V1332I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1332I,3,0.542
+27527,C,T,ORF7a,P45L,SNP,ORF7a protein,ORF7a:P45L,3,0.542
+28198,G,T,ORF8,C102F,SNP,ORF8 protein,ORF8:C102F,3,0.542
+4679,C,T,NSP3,P654S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P654S,3,0.542
+29870,C,.,3'UTR,29870,extragenic,,3'UTR:29870,3,0.542
+7798,G,T,NSP3,K1693N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1693N,3,0.542
+16242,T,A,NSP13,V2V,SNP_silent,Helicase,NSP13:V2V,3,0.542
+22624,C,T,S,N354N,SNP_silent,Spike,S:N354N,3,0.542
+8653,G,C,NSP4,M33I,SNP,Transmembrane protein,NSP4:M33I,3,0.542
+20991,G,T,NSP16,L111F,SNP,2'-O-ribose methyltransferase,NSP16:L111F,2,0.361
+829,C,T,NSP2,N8N,SNP_silent,Non-Structural protein 2,NSP2:N8N,2,0.361
+376,G,T,NSP1,E37D,SNP,Leader protein,NSP1:E37D,2,0.361
+27213,C,A,ORF6,L4L,SNP_silent,ORF6 protein,ORF6:L4L,2,0.361
+28651,C,T,N,N126N,SNP_silent,Nucleocapsid protein,N:N126N,2,0.361
+28877,A,T,N,S202C,SNP,Nucleocapsid protein,N:S202C,2,0.361
+28090,GTTCTA,.,ORF8,G66,deletion,ORF8 protein,ORF8:G66,2,0.361
+2091,C,T,NSP2,T429I,SNP,Non-Structural protein 2,NSP2:T429I,2,0.361
+24814,T,A,S,D1084E,SNP,Spike,S:D1084E,2,0.361
+1885,T,C,NSP2,A360A,SNP_silent,Non-Structural protein 2,NSP2:A360A,2,0.361
+2146,C,T,NSP2,V447V,SNP_silent,Non-Structural protein 2,NSP2:V447V,2,0.361
+5884,C,T,NSP3,Y1055Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1055Y,2,0.361
+5806,C,T,NSP3,C1029C,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:C1029C,2,0.361
+823,C,T,NSP2,V6V,SNP_silent,Non-Structural protein 2,NSP2:V6V,2,0.361
+28272,A,T,3'UTR,28272,extragenic,,3'UTR:28272,2,0.361
+29810,G,T,3'UTR,29810,extragenic,,3'UTR:29810,2,0.361
+14280,A,G,NSP12b,L271L,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:L271L,2,0.361
+19215,T,C,NSP14,Y392Y,SNP_silent,3'-to-5' exonuclease,NSP14:Y392Y,2,0.361
+28498,C,T,N,N75N,SNP_silent,Nucleocapsid protein,N:N75N,2,0.361
+28089,G,T,ORF8,G66C,SNP,ORF8 protein,ORF8:G66C,2,0.361
+8728,A,G,NSP4,A58A,SNP_silent,Transmembrane protein,NSP4:A58A,2,0.361
+17140,G,T,NSP13,A302S,SNP,Helicase,NSP13:A302S,2,0.361
+8499,C,T,NSP3,A1927V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1927V,2,0.361
+8266,C,T,NSP3,G1849G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1849G,2,0.361
+28911,A,G,N,N213S,SNP,Nucleocapsid protein,N:N213S,2,0.361
+9355,G,A,NSP4,M267I,SNP,Transmembrane protein,NSP4:M267I,2,0.361
+2458,G,T,NSP2,M551I,SNP,Non-Structural protein 2,NSP2:M551I,2,0.361
+28657,C,T,N,D128D,SNP_silent,Nucleocapsid protein,N:D128D,2,0.361
+18397,G,A,NSP14,V120I,SNP,3'-to-5' exonuclease,NSP14:V120I,2,0.361
+28201,C,T,ORF8,S103L,SNP,ORF8 protein,ORF8:S103L,2,0.361
+934,C,T,NSP2,D43D,SNP_silent,Non-Structural protein 2,NSP2:D43D,2,0.361
+29755,G,T,3'UTR,29755,extragenic,,3'UTR:29755,2,0.361
+19388,G,A,NSP14,S450N,SNP,3'-to-5' exonuclease,NSP14:S450N,2,0.361
+8056,G,A,NSP3,T1779T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1779T,2,0.361
+355,C,T,NSP1,G30G,SNP_silent,Leader protein,NSP1:G30G,2,0.361
+12651,C,T,NSP8,T187I,SNP,Non-Structural Protein 8,NSP8:T187I,2,0.361
+27688,C,T,ORF7a,P99S,SNP,ORF7a protein,ORF7a:P99S,2,0.361
+21220,G,T,NSP16,A188S,SNP,2'-O-ribose methyltransferase,NSP16:A188S,2,0.361
+1495,G,T,NSP2,V230V,SNP_silent,Non-Structural protein 2,NSP2:V230V,2,0.361
+29518,C,T,N,D415D,SNP_silent,Nucleocapsid protein,N:D415D,2,0.361
+11020,C,T,NSP6,L16L,SNP_silent,Transmembrane protein,NSP6:L16L,2,0.361
+5628,C,T,NSP3,T970M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T970M,2,0.361
+25515,C,T,ORF3a,L41L,SNP_silent,ORF3a protein,ORF3a:L41L,2,0.361
+25012,G,T,S,E1150D,SNP,Spike,S:E1150D,2,0.361
+960,G,A,NSP2,R52H,SNP,Non-Structural protein 2,NSP2:R52H,2,0.361
+1288,C,T,NSP2,C161C,SNP_silent,Non-Structural protein 2,NSP2:C161C,2,0.361
+10733,C,T,NSP5,L227F,SNP,3C-like proteinase,NSP5:L227F,2,0.361
+25720,G,T,ORF3a,A110S,SNP,ORF3a protein,ORF3a:A110S,2,0.361
+29449,G,T,N,V392V,SNP_silent,Nucleocapsid protein,N:V392V,2,0.361
+7834,C,T,NSP3,N1705N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1705N,2,0.361
+20178,C,T,NSP15,V186V,SNP_silent,endoRNAse,NSP15:V186V,2,0.361
+3165,C,T,NSP3,A149V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A149V,2,0.361
+11227,T,C,NSP6,Y85Y,SNP_silent,Transmembrane protein,NSP6:Y85Y,2,0.361
+8802,C,T,NSP4,T83I,SNP,Transmembrane protein,NSP4:T83I,2,0.361
+10687,T,C,NSP5,A211A,SNP_silent,3C-like proteinase,NSP5:A211A,2,0.361
+19186,C,T,NSP14,C382C,SNP_silent,3'-to-5' exonuclease,NSP14:C382C,2,0.361
+21191,C,T,NSP16,A178V,SNP,2'-O-ribose methyltransferase,NSP16:A178V,2,0.361
+9384,C,T,NSP4,A277V,SNP,Transmembrane protein,NSP4:A277V,2,0.361
+28006,C,T,ORF8,P38L,SNP,ORF8 protein,ORF8:P38L,2,0.361
+8001,A,G,NSP3,D1761G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1761G,2,0.361
+22224,C,T,S,S221L,SNP,Spike,S:S221L,2,0.361
+29596,A,G,ORF10,I13M,SNP,ORF10 protein,ORF10:I13M,2,0.361
+7,G,A,5'UTR,7,extragenic,,5'UTR:7,2,0.361
+4543,C,T,NSP3,T608T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T608T,2,0.361
+27556,G,T,ORF7a,A55S,SNP,ORF7a protein,ORF7a:A55S,2,0.361
+6735,T,G,NSP3,V1339G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1339G,2,0.361
+28542,C,T,N,A90V,SNP,Nucleocapsid protein,N:A90V,2,0.361
+6619,T,C,NSP3,G1300G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1300G,2,0.361
+26636,C,T,M,A38A,SNP_silent,Membrane,M:A38A,2,0.361
+6099,C,T,NSP3,T1127I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1127I,2,0.361
+23575,C,T,S,C671C,SNP_silent,Spike,S:C671C,2,0.361
+8605,C,T,NSP4,F17F,SNP_silent,Transmembrane protein,NSP4:F17F,2,0.361
+5837,G,A,NSP3,E1040K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1040K,2,0.361
+23525,C,T,S,H655Y,SNP,Spike,S:H655Y,2,0.361
+5730,C,T,NSP3,T1004I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1004I,2,0.361
+29708,C,T,3'UTR,29708,extragenic,,3'UTR:29708,2,0.361
+20361,T,C,NSP15,G247G,SNP_silent,endoRNAse,NSP15:G247G,2,0.361
+14228,A,G,NSP12b,K254R,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K254R,2,0.361
+21769,TGT,.,S,V70,deletion,Spike,S:V70,2,0.361
+16247,C,T,NSP13,A4V,SNP,Helicase,NSP13:A4V,2,0.361
+16323,C,T,NSP13,C29C,SNP_silent,Helicase,NSP13:C29C,2,0.361
+25549,C,T,ORF3a,L53F,SNP,ORF3a protein,ORF3a:L53F,2,0.361
+11117,A,G,NSP6,I49V,SNP,Transmembrane protein,NSP6:I49V,2,0.361
+1113,C,A,NSP2,T103N,SNP,Non-Structural protein 2,NSP2:T103N,2,0.361
+21914,C,T,S,L118F,SNP,Spike,S:L118F,2,0.361
+5178,C,T,NSP3,T820I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T820I,2,0.361
+21,C,T,5'UTR,21,extragenic,,5'UTR:21,2,0.361
+1473,C,T,NSP2,T223I,SNP,Non-Structural protein 2,NSP2:T223I,2,0.361
+25218,G,T,S,G1219V,SNP,Spike,S:G1219V,2,0.361
+27615,C,T,ORF7a,V74V,SNP_silent,ORF7a protein,ORF7a:V74V,2,0.361
+23929,C,T,S,Y789Y,SNP_silent,Spike,S:Y789Y,2,0.361
+25521,C,T,ORF3a,F43F,SNP_silent,ORF3a protein,ORF3a:F43F,2,0.361
+17004,C,T,NSP13,L256L,SNP_silent,Helicase,NSP13:L256L,2,0.361
+2413,G,A,NSP2,L536L,SNP_silent,Non-Structural protein 2,NSP2:L536L,2,0.361
+26645,C,T,M,N41N,SNP_silent,Membrane,M:N41N,2,0.361
+18819,T,C,NSP14,Y260Y,SNP_silent,3'-to-5' exonuclease,NSP14:Y260Y,2,0.361
+18986,T,C,NSP14,V316A,SNP,3'-to-5' exonuclease,NSP14:V316A,2,0.361
+24579,C,T,S,T1006I,SNP,Spike,S:T1006I,2,0.361
+2047,T,C,NSP2,N414N,SNP_silent,Non-Structural protein 2,NSP2:N414N,2,0.361
+17649,C,T,NSP13,C471C,SNP_silent,Helicase,NSP13:C471C,2,0.361
+10642,G,T,NSP5,T196T,SNP_silent,3C-like proteinase,NSP5:T196T,2,0.361
+5779,T,C,NSP3,H1020H,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:H1020H,2,0.361
+8668,C,T,NSP4,D38D,SNP_silent,Transmembrane protein,NSP4:D38D,2,0.361
+16428,C,T,NSP13,Y64Y,SNP_silent,Helicase,NSP13:Y64Y,2,0.361
+7224,C,T,NSP3,A1502V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1502V,2,0.361
+6968,C,T,NSP3,L1416L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1416L,2,0.361
+29545,C,A,3'UTR,29545,extragenic,,3'UTR:29545,2,0.361
+20759,C,T,NSP16,A34V,SNP,2'-O-ribose methyltransferase,NSP16:A34V,2,0.361
+8017,G,A,NSP3,A1766A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1766A,2,0.361
+3120,A,G,NSP3,E134G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E134G,2,0.361
+10396,G,T,NSP5,V114V,SNP_silent,3C-like proteinase,NSP5:V114V,2,0.361
+10334,G,A,NSP5,A94T,SNP,3C-like proteinase,NSP5:A94T,2,0.361
+18469,G,T,NSP14,D144Y,SNP,3'-to-5' exonuclease,NSP14:D144Y,2,0.361
+27095,A,T,M,S191S,SNP_silent,Membrane,M:S191S,2,0.361
+25703,C,T,ORF3a,P104L,SNP,ORF3a protein,ORF3a:P104L,2,0.361
+1110,A,G,NSP2,K102R,SNP,Non-Structural protein 2,NSP2:K102R,2,0.361
+27434,C,T,ORF7a,T14I,SNP,ORF7a protein,ORF7a:T14I,2,0.361
+29741,C,T,3'UTR,29741,extragenic,,3'UTR:29741,2,0.361
+3543,C,T,NSP3,T275I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T275I,2,0.361
+18550,A,G,NSP14,S171G,SNP,3'-to-5' exonuclease,NSP14:S171G,2,0.361
+4927,C,T,NSP3,D736D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D736D,2,0.361
+13812,G,T,NSP12b,M115I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:M115I,2,0.361
+29754,C,T,3'UTR,29754,extragenic,,3'UTR:29754,2,0.361
+25732,T,G,ORF3a,F114V,SNP,ORF3a protein,ORF3a:F114V,2,0.361
+28904,G,T,N,A211S,SNP,Nucleocapsid protein,N:A211S,2,0.361
+19955,C,T,NSP15,T112I,SNP,endoRNAse,NSP15:T112I,2,0.361
+26038,T,C,ORF3a,S216P,SNP,ORF3a protein,ORF3a:S216P,2,0.361
+8287,G,T,NSP3,M1856I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M1856I,2,0.361
+29372,G,C,N,E367Q,SNP,Nucleocapsid protein,N:E367Q,2,0.361
+2161,A,G,NSP2,E452E,SNP_silent,Non-Structural protein 2,NSP2:E452E,2,0.361
+29737,G,T,3'UTR,29737,extragenic,,3'UTR:29737,2,0.361
+3634,C,A,NSP3,N305K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N305K,2,0.361
+11094,C,T,NSP6,A41V,SNP,Transmembrane protein,NSP6:A41V,2,0.361
+15630,T,C,NSP12b,C721C,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:C721C,2,0.361
+3736,C,T,NSP3,D339D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D339D,2,0.361
+23405,G,T,S,V615F,SNP,Spike,S:V615F,2,0.361
+1613,C,T,NSP2,L270F,SNP,Non-Structural protein 2,NSP2:L270F,2,0.361
+3411,C,T,NSP3,A231V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A231V,2,0.361
+29543,G,T,3'UTR,29543,extragenic,,3'UTR:29543,2,0.361
+5876,A,G,NSP3,N1053D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1053D,2,0.361
+14230,C,T,NSP12b,P255S,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P255S,2,0.361
+5077,T,C,NSP3,V786V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V786V,2,0.361
+16726,C,T,NSP13,H164Y,SNP,Helicase,NSP13:H164Y,2,0.361
+26148,A,G,ORF3a,S252S,SNP_silent,ORF3a protein,ORF3a:S252S,2,0.361
+22450,C,T,S,L296L,SNP_silent,Spike,S:L296L,2,0.361
+29761,AC,.,3'UTR,29761,extragenic,,3'UTR:29761,2,0.361
+20132,C,T,NSP15,A171V,SNP,endoRNAse,NSP15:A171V,2,0.361
+1927,T,A,NSP2,T374T,SNP_silent,Non-Structural protein 2,NSP2:T374T,2,0.361
+27575,C,T,ORF7a,T61I,SNP,ORF7a protein,ORF7a:T61I,2,0.361
+18657,C,T,NSP14,T206T,SNP_silent,3'-to-5' exonuclease,NSP14:T206T,2,0.361
+26099,T,C,ORF3a,I236T,SNP,ORF3a protein,ORF3a:I236T,2,0.361
+26163,T,C,ORF3a,N257N,SNP_silent,ORF3a protein,ORF3a:N257N,2,0.361
+28904,G,A,N,A211T,SNP,Nucleocapsid protein,N:A211T,2,0.361
+28690,G,T,N,L139F,SNP,Nucleocapsid protein,N:L139F,2,0.361
+26894,C,T,M,L124L,SNP_silent,Membrane,M:L124L,2,0.361
+26768,C,T,M,I82I,SNP_silent,Membrane,M:I82I,2,0.361
+842,C,T,NSP2,P13S,SNP,Non-Structural protein 2,NSP2:P13S,2,0.361
+1179,C,T,NSP2,P125L,SNP,Non-Structural protein 2,NSP2:P125L,2,0.361
+29149,C,T,N,I292I,SNP_silent,Nucleocapsid protein,N:I292I,2,0.361
+17497,T,C,NSP13,Y421H,SNP,Helicase,NSP13:Y421H,2,0.361
+942,G,A,NSP2,R46K,SNP,Non-Structural protein 2,NSP2:R46K,2,0.361
+19884,C,T,NSP15,Y88Y,SNP_silent,endoRNAse,NSP15:Y88Y,2,0.361
+22005,A,C,S,N148T,SNP,Spike,S:N148T,2,0.361
+22444,C,T,S,D294D,SNP_silent,Spike,S:D294D,2,0.361
+29541,C,T,3'UTR,29541,extragenic,,3'UTR:29541,2,0.361
+292,C,T,NSP1,N9N,SNP_silent,Leader protein,NSP1:N9N,2,0.361
+24835,T,C,S,R1091R,SNP_silent,Spike,S:R1091R,2,0.361
+27737,C,T,ORF7a,T115I,SNP,ORF7a protein,ORF7a:T115I,2,0.361
+26230,G,T,3'UTR,26230,extragenic,,3'UTR:26230,2,0.361
+23380,C,T,S,N606N,SNP_silent,Spike,S:N606N,2,0.361
+2144,G,T,NSP2,V447F,SNP,Non-Structural protein 2,NSP2:V447F,2,0.361
+29353,C,T,N,Y360Y,SNP_silent,Nucleocapsid protein,N:Y360Y,2,0.361
+26681,C,T,M,F53F,SNP_silent,Membrane,M:F53F,2,0.361
+21204,G,A,NSP16,K182K,SNP_silent,2'-O-ribose methyltransferase,NSP16:K182K,2,0.361
+2647,A,G,NSP2,K614K,SNP_silent,Non-Structural protein 2,NSP2:K614K,2,0.361
+22413,C,T,S,T284I,SNP,Spike,S:T284I,2,0.361
+10702,C,T,NSP5,D216D,SNP_silent,3C-like proteinase,NSP5:D216D,2,0.361
+10816,T,A,NSP5,S254S,SNP_silent,3C-like proteinase,NSP5:S254S,2,0.361
+27951,T,C,ORF8,C20R,SNP,ORF8 protein,ORF8:C20R,2,0.361
+7933,A,G,NSP3,S1738S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1738S,2,0.361
+27047,G,T,M,T175T,SNP_silent,Membrane,M:T175T,2,0.361
+29367,C,T,N,P365L,SNP,Nucleocapsid protein,N:P365L,2,0.361
+10761,A,G,NSP5,K236R,SNP,3C-like proteinase,NSP5:K236R,2,0.361
+28453,C,T,N,G60G,SNP_silent,Nucleocapsid protein,N:G60G,2,0.361
+8964,C,T,NSP4,S137L,SNP,Transmembrane protein,NSP4:S137L,2,0.361
+27920,C,T,ORF8,I9I,SNP_silent,ORF8 protein,ORF8:I9I,2,0.361
+29779,G,T,3'UTR,29779,extragenic,,3'UTR:29779,2,0.361
+5822,C,T,NSP3,L1035F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1035F,2,0.361
+12159,A,G,NSP8,E23G,SNP,Non-Structural Protein 8,NSP8:E23G,2,0.361
+20104,C,T,NSP15,L162F,SNP,endoRNAse,NSP15:L162F,2,0.361
+25217,G,T,S,G1219C,SNP,Spike,S:G1219C,2,0.361
+18508,C,T,NSP14,L157F,SNP,3'-to-5' exonuclease,NSP14:L157F,2,0.361
+11455,C,T,NSP6,A161A,SNP_silent,Transmembrane protein,NSP6:A161A,2,0.361
+12933,C,T,NSP9,P83L,SNP,ssRNA-binding protein,NSP9:P83L,2,0.361
+7272,G,A,NSP3,R1518K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:R1518K,2,0.361
+22009,C,T,S,N149N,SNP_silent,Spike,S:N149N,2,0.361
+28236,C,T,ORF8,R115C,SNP,ORF8 protein,ORF8:R115C,2,0.361
+9802,G,T,NSP4,A416A,SNP_silent,Transmembrane protein,NSP4:A416A,2,0.361
+3879,A,C,NSP3,E387A,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E387A,2,0.361
+22020,T,A,S,M153K,SNP,Spike,S:M153K,2,0.361
+25164,A,G,S,Q1201R,SNP,Spike,S:Q1201R,2,0.361
+15540,C,T,NSP12b,V691V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V691V,2,0.361
+26366,C,T,E,A41V,SNP,Envelope,E:A41V,2,0.361
+12769,G,T,NSP9,A28A,SNP_silent,ssRNA-binding protein,NSP9:A28A,2,0.361
+21987,GTGTT,.,S,G142,deletion_frameshift,Spike,S:G142,2,0.361
+21993,A,.,S,Y144,deletion_frameshift,Spike,S:Y144,2,0.361
+2782,G,T,NSP3,V21V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V21V,2,0.361
+25626,C,T,ORF3a,H78H,SNP_silent,ORF3a protein,ORF3a:H78H,2,0.361
+8017,G,T,NSP3,A1766A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1766A,2,0.361
+15656,C,T,NSP12b,T730I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T730I,2,0.361
+593,C,T,NSP1,H110Y,SNP,Leader protein,NSP1:H110Y,2,0.361
+503,C,T,NSP1,P80S,SNP,Leader protein,NSP1:P80S,2,0.361
+14576,C,T,NSP12b,A370V,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A370V,2,0.361
+10252,C,T,NSP5,F66F,SNP_silent,3C-like proteinase,NSP5:F66F,2,0.361
+20930,C,T,NSP16,T91M,SNP,2'-O-ribose methyltransferase,NSP16:T91M,2,0.361
+10747,C,T,NSP5,N231N,SNP_silent,3C-like proteinase,NSP5:N231N,2,0.361
+25687,G,T,ORF3a,A99S,SNP,ORF3a protein,ORF3a:A99S,2,0.361
+9803,C,T,NSP4,A416A,SNP_silent,Transmembrane protein,NSP4:A416A,2,0.361
+18186,G,T,NSP14,M49I,SNP,3'-to-5' exonuclease,NSP14:M49I,2,0.361
+1141,G,T,NSP2,K112N,SNP,Non-Structural protein 2,NSP2:K112N,2,0.361
+4551,C,T,NSP3,T611I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T611I,2,0.361
+204,G,A,5'UTR,204,extragenic,,5'UTR:204,2,0.361
+21992,TA,GT,S,Y144V,SNP,Spike,S:Y144V,2,0.361
+15687,G,A,NSP12b,L740L,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:L740L,2,0.361
+9510,C,T,NSP4,T319I,SNP,Transmembrane protein,NSP4:T319I,2,0.361
+8658,A,G,NSP4,K35R,SNP,Transmembrane protein,NSP4:K35R,2,0.361
+1684,C,T,NSP2,I293I,SNP_silent,Non-Structural protein 2,NSP2:I293I,2,0.361
+28024,A,.,ORF8,K44,deletion_frameshift,ORF8 protein,ORF8:K44,2,0.361
+4288,G,T,NSP3,E523D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E523D,2,0.361
+1150,C,T,NSP2,G115G,SNP_silent,Non-Structural protein 2,NSP2:G115G,2,0.361
+20201,T,G,NSP15,F194C,SNP,endoRNAse,NSP15:F194C,2,0.361
+27213,C,T,ORF6,L4L,SNP_silent,ORF6 protein,ORF6:L4L,2,0.361
+66,C,T,5'UTR,66,extragenic,,5'UTR:66,2,0.361
+21557,C,A,3'UTR,21557,extragenic,,3'UTR:21557,2,0.361
+7749,C,T,NSP3,T1677I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1677I,2,0.361
+397,A,C,NSP1,Q44H,SNP,Leader protein,NSP1:Q44H,2,0.361
+16275,A,G,NSP13,S13S,SNP_silent,Helicase,NSP13:S13S,2,0.361
+18021,G,A,NSP13,R595R,SNP_silent,Helicase,NSP13:R595R,2,0.361
+23996,C,T,S,P812S,SNP,Spike,S:P812S,2,0.361
+21691,C,T,S,F43F,SNP_silent,Spike,S:F43F,2,0.361
+19317,C,T,NSP14,F426F,SNP_silent,3'-to-5' exonuclease,NSP14:F426F,2,0.361
+100,C,T,5'UTR,100,extragenic,,5'UTR:100,2,0.361
+3955,G,T,NSP3,K412N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K412N,2,0.361
+4120,T,C,NSP3,Y467Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y467Y,2,0.361
+7056,C,T,NSP3,T1446I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1446I,2,0.361
+6520,A,G,NSP3,K1267K,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1267K,2,0.361
+20613,T,C,NSP15,L331L,SNP_silent,endoRNAse,NSP15:L331L,2,0.361
+7858,C,T,NSP3,N1713N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1713N,2,0.361
+6445,C,T,NSP3,D1242D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1242D,2,0.361
+26606,C,T,M,F28F,SNP_silent,Membrane,M:F28F,2,0.361
+10156,C,T,NSP5,D34D,SNP_silent,3C-like proteinase,NSP5:D34D,2,0.361
+25352,G,T,S,V1264L,SNP,Spike,S:V1264L,2,0.361
+17641,G,A,NSP13,A469T,SNP,Helicase,NSP13:A469T,2,0.361
+18252,C,T,NSP14,N71N,SNP_silent,3'-to-5' exonuclease,NSP14:N71N,2,0.361
+21992,T,G,S,Y144D,SNP,Spike,S:Y144D,2,0.361
+26767,T,C,M,I82T,SNP,Membrane,M:I82T,2,0.361
+27638,T,C,ORF7a,V82A,SNP,ORF7a protein,ORF7a:V82A,2,0.361
+28299,A,T,N,Q9L,SNP,Nucleocapsid protein,N:Q9L,2,0.361
+28461,A,G,N,D63G,SNP,Nucleocapsid protein,N:D63G,2,0.361
+28916,G,T,N,G215C,SNP,Nucleocapsid protein,N:G215C,2,0.361
+16293,C,T,NSP13,C19C,SNP_silent,Helicase,NSP13:C19C,2,0.361
+4752,C,T,NSP3,T678I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T678I,2,0.361
+28221,G,T,ORF8,E110*,SNP_stop,ORF8 protein,ORF8:E110*,2,0.361
+11839,A,G,NSP6,V289V,SNP_silent,Transmembrane protein,NSP6:V289V,2,0.361
+8092,C,T,NSP3,L1791L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1791L,2,0.361
+7840,C,T,NSP3,D1707D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1707D,2,0.361
+1593,C,T,NSP2,S263F,SNP,Non-Structural protein 2,NSP2:S263F,2,0.361
+832,C,T,NSP2,N9N,SNP_silent,Non-Structural protein 2,NSP2:N9N,2,0.361
+4410,C,T,NSP3,A564V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A564V,2,0.361
+10255,G,T,NSP5,L67F,SNP,3C-like proteinase,NSP5:L67F,2,0.361
+14621,C,T,NSP12b,T385M,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T385M,2,0.361
+25469,C,T,ORF3a,S26L,SNP,ORF3a protein,ORF3a:S26L,2,0.361
+24410,G,A,S,D950N,SNP,Spike,S:D950N,2,0.361
+22029,AGTTCA,.,S,E156,deletion,Spike,S:E156,2,0.361
+18744,C,T,NSP14,Y235Y,SNP_silent,3'-to-5' exonuclease,NSP14:Y235Y,2,0.361
+7429,A,G,NSP3,A1570A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1570A,2,0.361
+4084,C,T,NSP3,D455D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D455D,2,0.361
+7124,C,T,NSP3,P1469S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1469S,2,0.361
+625,G,A,NSP1,K120K,SNP_silent,Leader protein,NSP1:K120K,2,0.361
+6636,C,T,NSP3,T1306I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1306I,2,0.361
+15952,C,A,NSP12b,L829I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:L829I,2,0.361
+28727,G,T,N,A152S,SNP,Nucleocapsid protein,N:A152S,2,0.361
+17646,A,G,NSP13,Q470Q,SNP_silent,Helicase,NSP13:Q470Q,2,0.361
+13779,T,C,NSP12b,H104H,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:H104H,2,0.361
+10838,T,C,NSP5,V261V,SNP_silent,3C-like proteinase,NSP5:V261V,2,0.361
+28312,C,T,N,P13P,SNP_silent,Nucleocapsid protein,N:P13P,2,0.361
+29537,C,T,3'UTR,29537,extragenic,,3'UTR:29537,2,0.361
+190,C,T,5'UTR,190,extragenic,,5'UTR:190,2,0.361
+25810,C,T,ORF3a,L140F,SNP,ORF3a protein,ORF3a:L140F,2,0.361
+20628,C,T,NSP15,G336G,SNP_silent,endoRNAse,NSP15:G336G,2,0.361
+4879,T,G,NSP3,T720T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T720T,2,0.361
+1629,A,T,NSP2,Q275L,SNP,Non-Structural protein 2,NSP2:Q275L,2,0.361
+15247,A,C,NSP12b,K594Q,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K594Q,2,0.361
+14019,T,C,NSP12b,C184C,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:C184C,2,0.361
+26416,G,T,E,V58F,SNP,Envelope,E:V58F,2,0.361
+28677,C,T,N,T135I,SNP,Nucleocapsid protein,N:T135I,2,0.361
+3042,C,T,NSP3,P108L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P108L,2,0.361
+21557,C,T,3'UTR,21557,extragenic,,3'UTR:21557,2,0.361
+84,C,T,5'UTR,84,extragenic,,5'UTR:84,2,0.361
+28313,C,T,N,R14C,SNP,Nucleocapsid protein,N:R14C,2,0.361
+8047,C,T,NSP3,Y1776Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1776Y,2,0.361
+8946,A,G,NSP4,N131S,SNP,Transmembrane protein,NSP4:N131S,2,0.361
+8311,C,T,NSP3,N1864N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1864N,2,0.361
+25222,T,C,S,F1220F,SNP_silent,Spike,S:F1220F,2,0.361
+6990,C,T,NSP3,S1424F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1424F,2,0.361
+25440,G,T,ORF3a,K16N,SNP,ORF3a protein,ORF3a:K16N,2,0.361
+5173,C,T,NSP3,H818H,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:H818H,2,0.361
+882,C,T,NSP2,A26V,SNP,Non-Structural protein 2,NSP2:A26V,2,0.361
+25552,G,T,ORF3a,A54S,SNP,ORF3a protein,ORF3a:A54S,2,0.361
+21800,G,T,S,D80Y,SNP,Spike,S:D80Y,2,0.361
+1878,C,T,NSP2,S358L,SNP,Non-Structural protein 2,NSP2:S358L,2,0.361
+25517,C,A,ORF3a,P42H,SNP,ORF3a protein,ORF3a:P42H,2,0.361
+10195,A,T,NSP5,E47D,SNP,3C-like proteinase,NSP5:E47D,2,0.361
+10193,G,A,NSP5,E47K,SNP,3C-like proteinase,NSP5:E47K,2,0.361
+1820,G,A,NSP2,G339S,SNP,Non-Structural protein 2,NSP2:G339S,2,0.361
+4012,C,T,NSP3,L431L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L431L,2,0.361
+23086,C,T,S,Y508Y,SNP_silent,Spike,S:Y508Y,2,0.361
+1387,C,T,NSP2,H194H,SNP_silent,Non-Structural protein 2,NSP2:H194H,2,0.361
+28083,G,T,ORF8,E64*,SNP_stop,ORF8 protein,ORF8:E64*,2,0.361
+12308,C,A,NSP8,Q73K,SNP,Non-Structural Protein 8,NSP8:Q73K,2,0.361
+28985,G,T,N,G238C,SNP,Nucleocapsid protein,N:G238C,2,0.361
+27708,G,T,ORF7a,A105A,SNP_silent,ORF7a protein,ORF7a:A105A,2,0.361
+29743,C,T,3'UTR,29743,extragenic,,3'UTR:29743,2,0.361
+25337,G,T,S,D1259Y,SNP,Spike,S:D1259Y,2,0.361
+1418,G,A,NSP2,A205T,SNP,Non-Structural protein 2,NSP2:A205T,2,0.361
+25066,C,T,S,D1168D,SNP_silent,Spike,S:D1168D,2,0.361
+2706,C,T,NSP2,T634I,SNP,Non-Structural protein 2,NSP2:T634I,2,0.361
+2767,A,G,NSP3,Q16Q,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q16Q,2,0.361
+3940,A,G,NSP3,R407R,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:R407R,2,0.361
+29751,G,T,3'UTR,29751,extragenic,,3'UTR:29751,2,0.361
+19116,A,G,NSP14,K359K,SNP_silent,3'-to-5' exonuclease,NSP14:K359K,2,0.361
+13770,G,A,NSP12b,M101I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:M101I,2,0.361
+15699,C,T,NSP12b,F744F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F744F,2,0.361
+14805,C,T,NSP12b,Y446Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y446Y,2,0.361
+29545,C,T,3'UTR,29545,extragenic,,3'UTR:29545,2,0.361
+17427,G,T,NSP13,V397V,SNP_silent,Helicase,NSP13:V397V,2,0.361
+151,C,T,5'UTR,151,extragenic,,5'UTR:151,2,0.361
+28541,G,T,N,A90S,SNP,Nucleocapsid protein,N:A90S,2,0.361
+27131,C,T,M,N203N,SNP_silent,Membrane,M:N203N,2,0.361
+29751,G,A,3'UTR,29751,extragenic,,3'UTR:29751,2,0.361
+24757,G,T,S,V1065V,SNP_silent,Spike,S:V1065V,2,0.361
+26664,A,G,M,I48V,SNP,Membrane,M:I48V,2,0.361
+8123,C,T,NSP3,L1802F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1802F,2,0.361
+27047,G,A,M,T175T,SNP_silent,Membrane,M:T175T,2,0.361
+21988,TG,.,S,G142,deletion_frameshift,Spike,S:G142,2,0.361
+25553,C,T,ORF3a,A54V,SNP,ORF3a protein,ORF3a:A54V,2,0.361
+17402,C,T,NSP13,A389V,SNP,Helicase,NSP13:A389V,2,0.361
+22187,C,T,S,P209S,SNP,Spike,S:P209S,1,0.181
+27985,A,G,ORF8,Y31C,SNP,ORF8 protein,ORF8:Y31C,1,0.181
+6271,G,A,NSP3,T1184T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1184T,1,0.181
+27416,C,T,ORF7a,A8V,SNP,ORF7a protein,ORF7a:A8V,1,0.181
+21004,G,T,NSP16,A116S,SNP,2'-O-ribose methyltransferase,NSP16:A116S,1,0.181
+28693,T,C,N,N140N,SNP_silent,Nucleocapsid protein,N:N140N,1,0.181
+20683,G,T,NSP16,V9F,SNP,2'-O-ribose methyltransferase,NSP16:V9F,1,0.181
+21127,A,G,NSP16,I157V,SNP,2'-O-ribose methyltransferase,NSP16:I157V,1,0.181
+21823,T,C,S,N87N,SNP_silent,Spike,S:N87N,1,0.181
+3381,A,G,NSP3,Y221C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y221C,1,0.181
+6317,C,T,NSP3,P1200S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1200S,1,0.181
+21128,T,C,NSP16,I157T,SNP,2'-O-ribose methyltransferase,NSP16:I157T,1,0.181
+12307,A,G,NSP8,K72K,SNP_silent,Non-Structural Protein 8,NSP8:K72K,1,0.181
+3660,A,T,NSP3,K314M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K314M,1,0.181
+8881,G,A,NSP4,T109T,SNP_silent,Transmembrane protein,NSP4:T109T,1,0.181
+29645,G,T,ORF10,V30L,SNP,ORF10 protein,ORF10:V30L,1,0.181
+27890,G,T,3'UTR,27890,extragenic,,3'UTR:27890,1,0.181
+27686,C,T,ORF7a,S98F,SNP,ORF7a protein,ORF7a:S98F,1,0.181
+5716,G,T,NSP3,K999N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K999N,1,0.181
+16308,C,T,NSP13,F24F,SNP_silent,Helicase,NSP13:F24F,1,0.181
+16269,G,A,NSP13,Q11Q,SNP_silent,Helicase,NSP13:Q11Q,1,0.181
+22468,G,T,S,T302T,SNP_silent,Spike,S:T302T,1,0.181
+23757,C,T,S,T732I,SNP,Spike,S:T732I,1,0.181
+8483,T,C,NSP3,F1922L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1922L,1,0.181
+13503,G,T,NSP12b,P12P,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P12P,1,0.181
+5100,C,T,NSP3,S794L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S794L,1,0.181
+25688,C,T,ORF3a,A99V,SNP,ORF3a protein,ORF3a:A99V,1,0.181
+25302,G,T,S,C1247F,SNP,Spike,S:C1247F,1,0.181
+4301,C,T,NSP3,L528F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L528F,1,0.181
+15755,C,T,NSP12b,S763F,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:S763F,1,0.181
+28812,G,T,N,S180I,SNP,Nucleocapsid protein,N:S180I,1,0.181
+25459,G,T,ORF3a,A23S,SNP,ORF3a protein,ORF3a:A23S,1,0.181
+14712,G,T,NSP12b,V415V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V415V,1,0.181
+14674,C,T,NSP12b,P403S,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:P403S,1,0.181
+13711,A,G,NSP12b,K82E,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:K82E,1,0.181
+28219,T,C,ORF8,L109S,SNP,ORF8 protein,ORF8:L109S,1,0.181
+10615,C,T,NSP5,D187D,SNP_silent,3C-like proteinase,NSP5:D187D,1,0.181
+21639,C,T,S,P26L,SNP,Spike,S:P26L,1,0.181
+1816,A,C,NSP2,K337N,SNP,Non-Structural protein 2,NSP2:K337N,1,0.181
+28243,TTT,.,ORF8,L118,deletion,ORF8 protein,ORF8:L118,1,0.181
+28603,C,T,N,F110F,SNP_silent,Nucleocapsid protein,N:F110F,1,0.181
+26640,G,T,M,A40S,SNP,Membrane,M:A40S,1,0.181
+5958,A,G,NSP3,N1080S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1080S,1,0.181
+22677,C,T,S,A372V,SNP,Spike,S:A372V,1,0.181
+27849,C,T,ORF7b,L32F,SNP,ORF7b protein,ORF7b:L32F,1,0.181
+21987,G,A,S,G142D,SNP,Spike,S:G142D,1,0.181
+18705,C,T,NSP14,D222D,SNP_silent,3'-to-5' exonuclease,NSP14:D222D,1,0.181
+16731,T,A,NSP13,L165L,SNP_silent,Helicase,NSP13:L165L,1,0.181
+19545,C,T,NSP14,I502I,SNP_silent,3'-to-5' exonuclease,NSP14:I502I,1,0.181
+9172,T,C,NSP4,L206L,SNP_silent,Transmembrane protein,NSP4:L206L,1,0.181
+29622,A,G,ORF10,N22S,SNP,ORF10 protein,ORF10:N22S,1,0.181
+27758,G,T,ORF7a,*122L,SNP,ORF7a protein,ORF7a:*122L,1,0.181
+1064,A,G,NSP2,N87D,SNP,Non-Structural protein 2,NSP2:N87D,1,0.181
+16026,A,G,NSP12b,L853L,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:L853L,1,0.181
+15658,G,A,NSP12b,D731N,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D731N,1,0.181
+27610,C,T,ORF7a,H73Y,SNP,ORF7a protein,ORF7a:H73Y,1,0.181
+9726,A,G,NSP4,Y391C,SNP,Transmembrane protein,NSP4:Y391C,1,0.181
+18998,C,T,NSP14,A320V,SNP,3'-to-5' exonuclease,NSP14:A320V,1,0.181
+367,C,T,NSP1,S34S,SNP_silent,Leader protein,NSP1:S34S,1,0.181
+10116,C,T,NSP5,T21I,SNP,3C-like proteinase,NSP5:T21I,1,0.181
+12525,C,T,NSP8,T145I,SNP,Non-Structural Protein 8,NSP8:T145I,1,0.181
+13075,T,C,NSP10,C17C,SNP_silent,Growth-factor-like protein,NSP10:C17C,1,0.181
+4158,C,T,NSP3,A480V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A480V,1,0.181
+18032,C,T,NSP13,T599I,SNP,Helicase,NSP13:T599I,1,0.181
+20310,T,C,NSP15,Y230Y,SNP_silent,endoRNAse,NSP15:Y230Y,1,0.181
+6723,C,T,NSP3,T1335I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1335I,1,0.181
+27271,G,T,ORF6,V24F,SNP,ORF6 protein,ORF6:V24F,1,0.181
+13761,C,T,NSP12b,D98D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D98D,1,0.181
+25350,C,G,S,P1263R,SNP,Spike,S:P1263R,1,0.181
+277,T,C,NSP1,L4L,SNP_silent,Leader protein,NSP1:L4L,1,0.181
+22716,C,T,S,T385I,SNP,Spike,S:T385I,1,0.181
+28136,T,C,ORF8,V81V,SNP_silent,ORF8 protein,ORF8:V81V,1,0.181
+28606,C,T,N,Y111Y,SNP_silent,Nucleocapsid protein,N:Y111Y,1,0.181
+25869,T,G,ORF3a,P159P,SNP_silent,ORF3a protein,ORF3a:P159P,1,0.181
+7863,A,G,NSP3,K1715R,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1715R,1,0.181
+27630,C,T,ORF7a,A79A,SNP_silent,ORF7a protein,ORF7a:A79A,1,0.181
+27513,C,T,ORF7a,Y40Y,SNP_silent,ORF7a protein,ORF7a:Y40Y,1,0.181
+103,C,T,5'UTR,103,extragenic,,5'UTR:103,1,0.181
+23030,T,C,S,F490L,SNP,Spike,S:F490L,1,0.181
+637,T,C,NSP1,R124R,SNP_silent,Leader protein,NSP1:R124R,1,0.181
+5545,A,T,NSP3,T942T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T942T,1,0.181
+29557,G,T,3'UTR,29557,extragenic,,3'UTR:29557,1,0.181
+1560,G,T,NSP2,G252V,SNP,Non-Structural protein 2,NSP2:G252V,1,0.181
+7926,C,T,NSP3,A1736V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1736V,1,0.181
+2433,C,T,NSP2,S543F,SNP,Non-Structural protein 2,NSP2:S543F,1,0.181
+27827,G,T,ORF7b,M24I,SNP,ORF7b protein,ORF7b:M24I,1,0.181
+25564,A,G,ORF3a,S58G,SNP,ORF3a protein,ORF3a:S58G,1,0.181
+26028,C,T,ORF3a,Y212Y,SNP_silent,ORF3a protein,ORF3a:Y212Y,1,0.181
+6392,G,A,NSP3,D1225N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1225N,1,0.181
+820,T,C,NSP2,Y5Y,SNP_silent,Non-Structural protein 2,NSP2:Y5Y,1,0.181
+5758,C,T,NSP3,Y1013Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1013Y,1,0.181
+23296,T,C,S,D578D,SNP_silent,Spike,S:D578D,1,0.181
+19134,A,G,NSP14,E365E,SNP_silent,3'-to-5' exonuclease,NSP14:E365E,1,0.181
+9072,C,T,NSP4,T173I,SNP,Transmembrane protein,NSP4:T173I,1,0.181
+26520,G,T,3'UTR,26520,extragenic,,3'UTR:26520,1,0.181
+24298,A,G,S,T912T,SNP_silent,Spike,S:T912T,1,0.181
+25974,A,C,ORF3a,E194D,SNP,ORF3a protein,ORF3a:E194D,1,0.181
+2880,C,T,NSP3,A54V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A54V,1,0.181
+25854,C,T,ORF3a,Y154Y,SNP_silent,ORF3a protein,ORF3a:Y154Y,1,0.181
+1738,G,T,NSP2,V311V,SNP_silent,Non-Structural protein 2,NSP2:V311V,1,0.181
+26151,C,T,ORF3a,S253S,SNP_silent,ORF3a protein,ORF3a:S253S,1,0.181
+27056,T,C,M,Y178Y,SNP_silent,Membrane,M:Y178Y,1,0.181
+3332,A,G,NSP3,I205V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I205V,1,0.181
+27684,C,T,ORF7a,Y97Y,SNP_silent,ORF7a protein,ORF7a:Y97Y,1,0.181
+28817,G,T,N,A182S,SNP,Nucleocapsid protein,N:A182S,1,0.181
+29212,G,T,N,A313A,SNP_silent,Nucleocapsid protein,N:A313A,1,0.181
+25528,C,T,ORF3a,L46F,SNP,ORF3a protein,ORF3a:L46F,1,0.181
+6881,G,A,NSP3,V1388I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1388I,1,0.181
+8263,T,C,NSP3,T1848T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1848T,1,0.181
+10341,C,T,NSP5,P96L,SNP,3C-like proteinase,NSP5:P96L,1,0.181
+6327,C,T,NSP3,T1203I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1203I,1,0.181
+11653,C,T,NSP6,L227L,SNP_silent,Transmembrane protein,NSP6:L227L,1,0.181
+5339,C,T,NSP3,P874S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P874S,1,0.181
+22021,G,T,S,M153I,SNP,Spike,S:M153I,1,0.181
+12781,C,T,NSP9,Y32Y,SNP_silent,ssRNA-binding protein,NSP9:Y32Y,1,0.181
+29421,C,T,N,P383L,SNP,Nucleocapsid protein,N:P383L,1,0.181
+11902,C,T,NSP7,L20L,SNP_silent,Non-Structural Protein 7,NSP7:L20L,1,0.181
+25565,G,A,ORF3a,S58N,SNP,ORF3a protein,ORF3a:S58N,1,0.181
+16842,A,G,NSP13,K202K,SNP_silent,Helicase,NSP13:K202K,1,0.181
+16500,A,C,NSP13,Q88H,SNP,Helicase,NSP13:Q88H,1,0.181
+23587,G,T,S,Q675H,SNP,Spike,S:Q675H,1,0.181
+27715,G,T,ORF7a,V108L,SNP,ORF7a protein,ORF7a:V108L,1,0.181
+23718,C,T,S,T719I,SNP,Spike,S:T719I,1,0.181
+25791,C,T,ORF3a,C133C,SNP_silent,ORF3a protein,ORF3a:C133C,1,0.181
+26060,C,A,ORF3a,T223N,SNP,ORF3a protein,ORF3a:T223N,1,0.181
+26892,C,T,M,L124F,SNP,Membrane,M:L124F,1,0.181
+4173,C,T,NSP3,T485I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T485I,1,0.181
+3865,A,G,NSP3,E382E,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:E382E,1,0.181
+26763,G,T,M,A81S,SNP,Membrane,M:A81S,1,0.181
+22785,G,T,S,R408I,SNP,Spike,S:R408I,1,0.181
+27247,C,T,ORF6,L15L,SNP_silent,ORF6 protein,ORF6:L15L,1,0.181
+27976,A,T,ORF8,H28L,SNP,ORF8 protein,ORF8:H28L,1,0.181
+27672,T,C,ORF7a,V93V,SNP_silent,ORF7a protein,ORF7a:V93V,1,0.181
+29715,G,T,3'UTR,29715,extragenic,,3'UTR:29715,1,0.181
+5961,A,G,NSP3,Y1081C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1081C,1,0.181
+6538,C,T,NSP3,G1273G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1273G,1,0.181
+23099,C,T,S,L513F,SNP,Spike,S:L513F,1,0.181
+29874,A,C,3'UTR,29874,extragenic,,3'UTR:29874,1,0.181
+10009,T,G,NSP4,V485V,SNP_silent,Transmembrane protein,NSP4:V485V,1,0.181
+1081,T,C,NSP2,N92N,SNP_silent,Non-Structural protein 2,NSP2:N92N,1,0.181
+11747,C,T,NSP6,G258G,SNP_silent,Transmembrane protein,NSP6:G258G,1,0.181
+8802,C,A,NSP4,T83N,SNP,Transmembrane protein,NSP4:T83N,1,0.181
+1189,A,T,NSP2,S128S,SNP_silent,Non-Structural protein 2,NSP2:S128S,1,0.181
+10015,C,T,NSP4,Y487Y,SNP_silent,Transmembrane protein,NSP4:Y487Y,1,0.181
+7945,C,T,NSP3,Y1742Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1742Y,1,0.181
+3229,T,A,NSP3,V170V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V170V,1,0.181
+6705,A,C,NSP3,N1329T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1329T,1,0.181
+1191,C,T,NSP2,P129L,SNP,Non-Structural protein 2,NSP2:P129L,1,0.181
+2633,T,C,NSP2,M609M,SNP_silent,Non-Structural protein 2,NSP2:M609M,1,0.181
+19905,T,C,NSP15,H95H,SNP_silent,endoRNAse,NSP15:H95H,1,0.181
+973,T,C,NSP2,H56H,SNP_silent,Non-Structural protein 2,NSP2:H56H,1,0.181
+20235,C,T,NSP15,P205P,SNP_silent,endoRNAse,NSP15:P205P,1,0.181
+27214,G,T,ORF6,V5F,SNP,ORF6 protein,ORF6:V5F,1,0.181
+27205,T,C,ORF6,F2L,SNP,ORF6 protein,ORF6:F2L,1,0.181
+4196,G,A,NSP3,E493K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E493K,1,0.181
+7471,C,T,NSP3,D1584D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1584D,1,0.181
+25941,C,A,ORF3a,D183E,SNP,ORF3a protein,ORF3a:D183E,1,0.181
+26010,C,T,ORF3a,Y206Y,SNP_silent,ORF3a protein,ORF3a:Y206Y,1,0.181
+6354,C,T,NSP3,S1212L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1212L,1,0.181
+16,C,G,5'UTR,16,extragenic,,5'UTR:16,1,0.181
+7393,G,T,NSP3,P1558P,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1558P,1,0.181
+8140,C,T,NSP3,S1807S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1807S,1,0.181
+16827,G,A,NSP13,E197E,SNP_silent,Helicase,NSP13:E197E,1,0.181
+24734,C,T,S,H1058Y,SNP,Spike,S:H1058Y,1,0.181
+8572,G,T,NSP4,W6C,SNP,Transmembrane protein,NSP4:W6C,1,0.181
+10186,C,T,NSP5,C44C,SNP_silent,3C-like proteinase,NSP5:C44C,1,0.181
+18936,T,C,NSP14,I299I,SNP_silent,3'-to-5' exonuclease,NSP14:I299I,1,0.181
+29160,C,T,N,T296I,SNP,Nucleocapsid protein,N:T296I,1,0.181
+10189,C,T,NSP5,T45T,SNP_silent,3C-like proteinase,NSP5:T45T,1,0.181
+10264,T,A,NSP5,A70A,SNP_silent,3C-like proteinase,NSP5:A70A,1,0.181
+29508,G,A,N,S412N,SNP,Nucleocapsid protein,N:S412N,1,0.181
+13378,C,T,NSP10,T118T,SNP_silent,Growth-factor-like protein,NSP10:T118T,1,0.181
+589,C,T,NSP1,V108V,SNP_silent,Leader protein,NSP1:V108V,1,0.181
+18904,C,T,NSP14,R289C,SNP,3'-to-5' exonuclease,NSP14:R289C,1,0.181
+19813,C,T,NSP15,P65S,SNP,endoRNAse,NSP15:P65S,1,0.181
+25052,G,T,S,V1164F,SNP,Spike,S:V1164F,1,0.181
+20743,A,C,NSP16,N29H,SNP,2'-O-ribose methyltransferase,NSP16:N29H,1,0.181
+21622,C,T,S,T20T,SNP_silent,Spike,S:T20T,1,0.181
+1813,T,A,NSP2,A336A,SNP_silent,Non-Structural protein 2,NSP2:A336A,1,0.181
+27881,C,T,ORF7b,H42H,SNP_silent,ORF7b protein,ORF7b:H42H,1,0.181
+23866,T,C,S,T768T,SNP_silent,Spike,S:T768T,1,0.181
+25621,G,A,ORF3a,V77I,SNP,ORF3a protein,ORF3a:V77I,1,0.181
+28209,G,C,ORF8,E106Q,SNP,ORF8 protein,ORF8:E106Q,1,0.181
+25523,G,T,ORF3a,G44V,SNP,ORF3a protein,ORF3a:G44V,1,0.181
+4312,T,C,NSP3,C531C,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:C531C,1,0.181
+8160,C,T,NSP3,T1814I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1814I,1,0.181
+12756,C,T,NSP9,T24I,SNP,ssRNA-binding protein,NSP9:T24I,1,0.181
+28931,G,T,N,A220S,SNP,Nucleocapsid protein,N:A220S,1,0.181
+21082,GA,CT,NSP16,E142L,SNP,2'-O-ribose methyltransferase,NSP16:E142L,1,0.181
+1567,C,A,NSP2,N254K,SNP,Non-Structural protein 2,NSP2:N254K,1,0.181
+4898,C,T,NSP3,H727Y,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:H727Y,1,0.181
+11109,C,T,NSP6,A46V,SNP,Transmembrane protein,NSP6:A46V,1,0.181
+10830,T,C,NSP5,I259T,SNP,3C-like proteinase,NSP5:I259T,1,0.181
+6982,C,T,NSP3,C1421C,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:C1421C,1,0.181
+11188,A,G,NSP6,L72L,SNP_silent,Transmembrane protein,NSP6:L72L,1,0.181
+12025,C,T,NSP7,S61S,SNP_silent,Non-Structural Protein 7,NSP7:S61S,1,0.181
+21157,G,A,NSP16,V167M,SNP,2'-O-ribose methyltransferase,NSP16:V167M,1,0.181
+29114,C,A,N,Q281K,SNP,Nucleocapsid protein,N:Q281K,1,0.181
+29266,G,C,N,L331F,SNP,Nucleocapsid protein,N:L331F,1,0.181
+26066,T,C,ORF3a,V225A,SNP,ORF3a protein,ORF3a:V225A,1,0.181
+2859,G,T,NSP3,G47V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G47V,1,0.181
+28873,C,T,N,G200G,SNP_silent,Nucleocapsid protein,N:G200G,1,0.181
+24834,G,A,S,R1091H,SNP,Spike,S:R1091H,1,0.181
+15918,T,C,NSP12b,Y817Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y817Y,1,0.181
+7420,C,T,NSP3,I1567I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1567I,1,0.181
+683,C,T,NSP1,D139D,SNP_silent,Leader protein,NSP1:D139D,1,0.181
+2456,A,C,NSP2,M551L,SNP,Non-Structural protein 2,NSP2:M551L,1,0.181
+6559,T,G,NSP3,A1280A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1280A,1,0.181
+110,C,T,5'UTR,110,extragenic,,5'UTR:110,1,0.181
+6272,T,A,NSP3,Y1185N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1185N,1,0.181
+22477,C,T,S,S305S,SNP_silent,Spike,S:S305S,1,0.181
+15237,C,T,NSP12b,H590H,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:H590H,1,0.181
+5407,C,T,NSP3,I896I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I896I,1,0.181
+5365,C,T,NSP3,Y882Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y882Y,1,0.181
+11152,C,T,NSP6,V60V,SNP_silent,Transmembrane protein,NSP6:V60V,1,0.181
+3619,C,T,NSP3,V300V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V300V,1,0.181
+6643,T,C,NSP3,G1308G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1308G,1,0.181
+1365,A,G,NSP2,K187R,SNP,Non-Structural protein 2,NSP2:K187R,1,0.181
+2842,C,T,NSP3,A41A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A41A,1,0.181
+29692,G,T,3'UTR,29692,extragenic,,3'UTR:29692,1,0.181
+1747,G,T,NSP2,L314F,SNP,Non-Structural protein 2,NSP2:L314F,1,0.181
+16560,A,G,NSP13,A108A,SNP_silent,Helicase,NSP13:A108A,1,0.181
+13584,C,T,NSP12b,F39F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F39F,1,0.181
+382,A,G,NSP1,L39L,SNP_silent,Leader protein,NSP1:L39L,1,0.181
+29841,G,T,3'UTR,29841,extragenic,,3'UTR:29841,1,0.181
+1098,A,G,NSP2,N98S,SNP,Non-Structural protein 2,NSP2:N98S,1,0.181
+29470,T,C,N,D399D,SNP_silent,Nucleocapsid protein,N:D399D,1,0.181
+17964,G,T,NSP13,M576I,SNP,Helicase,NSP13:M576I,1,0.181
+9445,T,C,NSP4,L297L,SNP_silent,Transmembrane protein,NSP4:L297L,1,0.181
+26062,G,T,ORF3a,G224C,SNP,ORF3a protein,ORF3a:G224C,1,0.181
+2119,C,T,NSP2,G438G,SNP_silent,Non-Structural protein 2,NSP2:G438G,1,0.181
+5221,C,A,NSP3,H834Q,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:H834Q,1,0.181
+27625,C,T,ORF7a,R78C,SNP,ORF7a protein,ORF7a:R78C,1,0.181
+25693,C,T,ORF3a,L101F,SNP,ORF3a protein,ORF3a:L101F,1,0.181
+6852,C,A,NSP3,T1378N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1378N,1,0.181
+11303,A,C,NSP6,K111Q,SNP,Transmembrane protein,NSP6:K111Q,1,0.181
+7399,A,G,NSP3,S1560S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1560S,1,0.181
+25671,C,T,ORF3a,H93H,SNP_silent,ORF3a protein,ORF3a:H93H,1,0.181
+23589,C,T,S,T676I,SNP,Spike,S:T676I,1,0.181
+21588,C,T,S,P9L,SNP,Spike,S:P9L,1,0.181
+20730,G,T,NSP16,K24N,SNP,2'-O-ribose methyltransferase,NSP16:K24N,1,0.181
+20256,T,C,NSP15,D212D,SNP_silent,endoRNAse,NSP15:D212D,1,0.181
+20320,C,T,NSP15,H234Y,SNP,endoRNAse,NSP15:H234Y,1,0.181
+23638,C,T,S,I692I,SNP_silent,Spike,S:I692I,1,0.181
+3893,G,A,NSP3,E392K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E392K,1,0.181
+3860,G,A,NSP3,V381I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V381I,1,0.181
+15267,A,G,NSP12b,V600V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V600V,1,0.181
+16756,C,T,NSP13,P174S,SNP,Helicase,NSP13:P174S,1,0.181
+20544,C,T,NSP15,S308S,SNP_silent,endoRNAse,NSP15:S308S,1,0.181
+2867,G,T,NSP3,V50L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V50L,1,0.181
+27870,G,T,ORF7b,E39*,SNP_stop,ORF7b protein,ORF7b:E39*,1,0.181
+4148,G,T,NSP3,V477F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V477F,1,0.181
+28253,CA,TC,ORF8,I121L,SNP,ORF8 protein,ORF8:I121L,1,0.181
+6353,T,C,NSP3,S1212P,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1212P,1,0.181
+8152,C,T,NSP3,V1811V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1811V,1,0.181
+17733,C,T,NSP13,F499F,SNP_silent,Helicase,NSP13:F499F,1,0.181
+24616,C,T,S,I1018I,SNP_silent,Spike,S:I1018I,1,0.181
+1195,T,G,NSP2,N130K,SNP,Non-Structural protein 2,NSP2:N130K,1,0.181
+25860,T,C,ORF3a,Y156Y,SNP_silent,ORF3a protein,ORF3a:Y156Y,1,0.181
+22010,A,G,S,K150E,SNP,Spike,S:K150E,1,0.181
+1909,C,T,NSP2,F368F,SNP_silent,Non-Structural protein 2,NSP2:F368F,1,0.181
+1170,C,T,NSP2,S122F,SNP,Non-Structural protein 2,NSP2:S122F,1,0.181
+10006,T,C,NSP4,D484D,SNP_silent,Transmembrane protein,NSP4:D484D,1,0.181
+5497,C,T,NSP3,C926C,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:C926C,1,0.181
+22471,G,T,S,L303F,SNP,Spike,S:L303F,1,0.181
+28233,G,A,ORF8,V114I,SNP,ORF8 protein,ORF8:V114I,1,0.181
+7735,C,T,NSP3,I1672I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1672I,1,0.181
+5259,C,T,NSP3,T847I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T847I,1,0.181
+29733,C,T,3'UTR,29733,extragenic,,3'UTR:29733,1,0.181
+7761,G,T,NSP3,G1681V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1681V,1,0.181
+19021,G,T,NSP14,V328F,SNP,3'-to-5' exonuclease,NSP14:V328F,1,0.181
+29095,C,T,N,F274F,SNP_silent,Nucleocapsid protein,N:F274F,1,0.181
+7284,T,C,NSP3,V1522A,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1522A,1,0.181
+27957,T,A,ORF8,L22I,SNP,ORF8 protein,ORF8:L22I,1,0.181
+20133,C,T,NSP15,A171A,SNP_silent,endoRNAse,NSP15:A171A,1,0.181
+8320,C,T,NSP3,P1867P,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1867P,1,0.181
+27322,T,C,ORF6,S41P,SNP,ORF6 protein,ORF6:S41P,1,0.181
+6196,C,T,NSP3,P1159P,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1159P,1,0.181
+17642,C,T,NSP13,A469V,SNP,Helicase,NSP13:A469V,1,0.181
+16607,A,G,NSP13,N124S,SNP,Helicase,NSP13:N124S,1,0.181
+13436,C,T,NSP10,L138F,SNP,Growth-factor-like protein,NSP10:L138F,1,0.181
+25088,G,T,S,V1176F,SNP,Spike,S:V1176F,1,0.181
+20190,T,C,NSP15,P190P,SNP_silent,endoRNAse,NSP15:P190P,1,0.181
+6352,G,T,NSP3,K1211N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1211N,1,0.181
+21604,G,T,S,Q14H,SNP,Spike,S:Q14H,1,0.181
+5762,T,C,NSP3,C1015R,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:C1015R,1,0.181
+25726,G,T,ORF3a,V112F,SNP,ORF3a protein,ORF3a:V112F,1,0.181
+29414,G,A,N,A381T,SNP,Nucleocapsid protein,N:A381T,1,0.181
+25209,T,C,S,I1216T,SNP,Spike,S:I1216T,1,0.181
+11199,C,T,NSP6,A76V,SNP,Transmembrane protein,NSP6:A76V,1,0.181
+29249,C,T,N,P326S,SNP,Nucleocapsid protein,N:P326S,1,0.181
+2245,C,T,NSP2,V480V,SNP_silent,Non-Structural protein 2,NSP2:V480V,1,0.181
+2935,T,C,NSP3,L72L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L72L,1,0.181
+18180,G,A,NSP14,K47K,SNP_silent,3'-to-5' exonuclease,NSP14:K47K,1,0.181
+12741,C,T,NSP9,T19I,SNP,ssRNA-binding protein,NSP9:T19I,1,0.181
+6058,A,G,NSP3,V1113V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1113V,1,0.181
+19255,C,T,NSP14,V405V,SNP_silent,3'-to-5' exonuclease,NSP14:V405V,1,0.181
+11200,C,T,NSP6,A76A,SNP_silent,Transmembrane protein,NSP6:A76A,1,0.181
+28040,A,G,ORF8,V49V,SNP_silent,ORF8 protein,ORF8:V49V,1,0.181
+2623,C,T,NSP2,N606N,SNP_silent,Non-Structural protein 2,NSP2:N606N,1,0.181
+10198,C,T,NSP5,D48D,SNP_silent,3C-like proteinase,NSP5:D48D,1,0.181
+19805,A,C,NSP15,N62T,SNP,endoRNAse,NSP15:N62T,1,0.181
+1306,G,T,NSP2,E167D,SNP,Non-Structural protein 2,NSP2:E167D,1,0.181
+1596,A,G,NSP2,E264G,SNP,Non-Structural protein 2,NSP2:E264G,1,0.181
+22459,A,T,S,T299T,SNP_silent,Spike,S:T299T,1,0.181
+20483,C,T,NSP15,S288F,SNP,endoRNAse,NSP15:S288F,1,0.181
+22858,C,T,S,C432C,SNP_silent,Spike,S:C432C,1,0.181
+17790,G,T,NSP13,Q518H,SNP,Helicase,NSP13:Q518H,1,0.181
+5392,C,T,NSP3,N891N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N891N,1,0.181
+29589,T,C,ORF10,F11S,SNP,ORF10 protein,ORF10:F11S,1,0.181
+6011,C,T,NSP3,P1098S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1098S,1,0.181
+6719,A,G,NSP3,T1334A,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1334A,1,0.181
+21549,C,T,NSP16,N297N,SNP_silent,2'-O-ribose methyltransferase,NSP16:N297N,1,0.181
+19455,G,T,NSP14,T472T,SNP_silent,3'-to-5' exonuclease,NSP14:T472T,1,0.181
+11135,T,G,NSP6,F55V,SNP,Transmembrane protein,NSP6:F55V,1,0.181
+25511,C,T,ORF3a,S40L,SNP,ORF3a protein,ORF3a:S40L,1,0.181
+10440,C,T,NSP5,A129V,SNP,3C-like proteinase,NSP5:A129V,1,0.181
+21627,C,T,S,T22I,SNP,Spike,S:T22I,1,0.181
+18538,G,T,NSP14,V167L,SNP,3'-to-5' exonuclease,NSP14:V167L,1,0.181
+27441,G,A,ORF7a,E16E,SNP_silent,ORF7a protein,ORF7a:E16E,1,0.181
+29085,C,T,N,T271I,SNP,Nucleocapsid protein,N:T271I,1,0.181
+25818,T,C,ORF3a,D142D,SNP_silent,ORF3a protein,ORF3a:D142D,1,0.181
+17451,A,G,NSP13,L405L,SNP_silent,Helicase,NSP13:L405L,1,0.181
+28981,T,C,N,G236G,SNP_silent,Nucleocapsid protein,N:G236G,1,0.181
+6560,T,G,NSP3,Y1281D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1281D,1,0.181
+22945,C,T,S,L461L,SNP_silent,Spike,S:L461L,1,0.181
+24763,T,C,S,Y1067Y,SNP_silent,Spike,S:Y1067Y,1,0.181
+26389,G,T,E,V49L,SNP,Envelope,E:V49L,1,0.181
+4113,C,T,NSP3,A465V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A465V,1,0.181
+23297,C,T,S,P579S,SNP,Spike,S:P579S,1,0.181
+12555,A,G,NSP8,E155G,SNP,Non-Structural Protein 8,NSP8:E155G,1,0.181
+2736,C,T,NSP3,T6I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T6I,1,0.181
+2862,C,T,NSP3,T48I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T48I,1,0.181
+29134,G,A,N,G287G,SNP_silent,Nucleocapsid protein,N:G287G,1,0.181
+4054,T,C,NSP3,L445L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L445L,1,0.181
+5563,A,G,NSP3,E948E,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:E948E,1,0.181
+26779,G,T,M,C86F,SNP,Membrane,M:C86F,1,0.181
+3686,C,A,NSP3,H323N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:H323N,1,0.181
+22599,G,C,S,R346T,SNP,Spike,S:R346T,1,0.181
+28436,G,T,N,A55S,SNP,Nucleocapsid protein,N:A55S,1,0.181
+22498,C,T,S,I312I,SNP_silent,Spike,S:I312I,1,0.181
+9996,C,T,NSP4,S481L,SNP,Transmembrane protein,NSP4:S481L,1,0.181
+5526,C,T,NSP3,T936I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T936I,1,0.181
+529,G,T,NSP1,L88L,SNP_silent,Leader protein,NSP1:L88L,1,0.181
+29898,A,C,3'UTR,29898,extragenic,,3'UTR:29898,1,0.181
+29759,G,T,3'UTR,29759,extragenic,,3'UTR:29759,1,0.181
+2152,T,C,NSP2,D449D,SNP_silent,Non-Structural protein 2,NSP2:D449D,1,0.181
+9928,G,T,NSP4,M458I,SNP,Transmembrane protein,NSP4:M458I,1,0.181
+2356,AGCTA,.,NSP2,G517,deletion_frameshift,Non-Structural protein 2,NSP2:G517,1,0.181
+29401,T,C,N,A376A,SNP_silent,Nucleocapsid protein,N:A376A,1,0.181
+18971,A,G,NSP14,K311R,SNP,3'-to-5' exonuclease,NSP14:K311R,1,0.181
+25708,C,T,ORF3a,L106F,SNP,ORF3a protein,ORF3a:L106F,1,0.181
+3695,C,T,NSP3,V325V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V325V,1,0.181
+21786,G,T,S,G75V,SNP,Spike,S:G75V,1,0.181
+10456,C,T,NSP5,F134F,SNP_silent,3C-like proteinase,NSP5:F134F,1,0.181
+21255,G,T,NSP16,A199A,SNP_silent,2'-O-ribose methyltransferase,NSP16:A199A,1,0.181
+5023,G,A,NSP3,M768I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M768I,1,0.181
+17310,T,C,NSP13,C358C,SNP_silent,Helicase,NSP13:C358C,1,0.181
+11379,C,T,NSP6,A136V,SNP,Transmembrane protein,NSP6:A136V,1,0.181
+6568,C,T,NSP3,D1283D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1283D,1,0.181
+28109,G,T,ORF8,Q72H,SNP,ORF8 protein,ORF8:Q72H,1,0.181
+4803,A,G,NSP3,D695G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:D695G,1,0.181
+24521,G,T,S,V987F,SNP,Spike,S:V987F,1,0.181
+6016,C,T,NSP3,N1099N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1099N,1,0.181
+21673,T,C,S,Y37Y,SNP_silent,Spike,S:Y37Y,1,0.181
+4095,C,T,NSP3,T459I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T459I,1,0.181
+28812,G,A,N,S180N,SNP,Nucleocapsid protein,N:S180N,1,0.181
+25097,A,G,S,I1179V,SNP,Spike,S:I1179V,1,0.181
+18131,C,T,NSP14,T31I,SNP,3'-to-5' exonuclease,NSP14:T31I,1,0.181
+1314,C,T,NSP2,T170I,SNP,Non-Structural protein 2,NSP2:T170I,1,0.181
+24910,T,C,S,T1116T,SNP_silent,Spike,S:T1116T,1,0.181
+7117,TT,CA,NSP3,S1467T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1467T,1,0.181
+835,C,T,NSP2,F10F,SNP_silent,Non-Structural protein 2,NSP2:F10F,1,0.181
+8174,G,A,NSP3,A1819T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1819T,1,0.181
+20437,A,T,NSP15,S273C,SNP,endoRNAse,NSP15:S273C,1,0.181
+16017,C,T,NSP12b,F850F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F850F,1,0.181
+4115,C,T,NSP3,P466S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P466S,1,0.181
+6140,T,C,NSP3,F1141L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1141L,1,0.181
+9724,C,T,NSP4,F390F,SNP_silent,Transmembrane protein,NSP4:F390F,1,0.181
+14208,T,C,NSP12b,H247H,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:H247H,1,0.181
+9016,T,C,NSP4,A154A,SNP_silent,Transmembrane protein,NSP4:A154A,1,0.181
+3526,T,A,NSP3,S269S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S269S,1,0.181
+21660,C,T,S,T33I,SNP,Spike,S:T33I,1,0.181
+1489,C,T,NSP2,G228G,SNP_silent,Non-Structural protein 2,NSP2:G228G,1,0.181
+9115,T,A,NSP4,P187P,SNP_silent,Transmembrane protein,NSP4:P187P,1,0.181
+3433,G,A,NSP3,V238V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V238V,1,0.181
+174,G,T,5'UTR,174,extragenic,,5'UTR:174,1,0.181
+15939,T,C,NSP12b,D824D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D824D,1,0.181
+27163,G,T,M,S214I,SNP,Membrane,M:S214I,1,0.181
+9529,A,G,NSP4,S325S,SNP_silent,Transmembrane protein,NSP4:S325S,1,0.181
+3253,C,T,NSP3,D178D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D178D,1,0.181
+28096,A,T,ORF8,K68I,SNP,ORF8 protein,ORF8:K68I,1,0.181
+16555,A,G,NSP13,N107D,SNP,Helicase,NSP13:N107D,1,0.181
+17539,G,T,NSP13,D435Y,SNP,Helicase,NSP13:D435Y,1,0.181
+13210,T,C,NSP10,N62N,SNP_silent,Growth-factor-like protein,NSP10:N62N,1,0.181
+19690,G,A,NSP15,V24I,SNP,endoRNAse,NSP15:V24I,1,0.181
+8752,C,T,NSP4,N66N,SNP_silent,Transmembrane protein,NSP4:N66N,1,0.181
+8121,A,G,NSP3,E1801G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1801G,1,0.181
+23643,C,T,S,A694V,SNP,Spike,S:A694V,1,0.181
+2037,C,T,NSP2,A411V,SNP,Non-Structural protein 2,NSP2:A411V,1,0.181
+7712,C,T,NSP3,P1665S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1665S,1,0.181
+912,CC,TT,NSP2,S36F,SNP,Non-Structural protein 2,NSP2:S36F,1,0.181
+28957,C,T,N,N228N,SNP_silent,Nucleocapsid protein,N:N228N,1,0.181
+28095,A,.,ORF8,S67,deletion_frameshift,ORF8 protein,ORF8:S67,1,0.181
+28094,TAA,.,ORF8,K68,deletion,ORF8 protein,ORF8:K68,1,0.181
+27942,C,T,ORF8,H17Y,SNP,ORF8 protein,ORF8:H17Y,1,0.181
+25317,C,T,S,S1252F,SNP,Spike,S:S1252F,1,0.181
+26111,C,T,ORF3a,P240L,SNP,ORF3a protein,ORF3a:P240L,1,0.181
+26927,A,G,M,E135E,SNP_silent,Membrane,M:E135E,1,0.181
+19488,C,T,NSP14,V483V,SNP_silent,3'-to-5' exonuclease,NSP14:V483V,1,0.181
+27762,G,A,ORF7b,E3K,SNP,ORF7b protein,ORF7b:E3K,1,0.181
+13115,C,T,NSP10,Y30Y,SNP_silent,Growth-factor-like protein,NSP10:Y30Y,1,0.181
+8051,A,G,NSP3,N1778D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1778D,1,0.181
+2644,C,T,NSP2,I613I,SNP_silent,Non-Structural protein 2,NSP2:I613I,1,0.181
+18570,C,T,NSP14,L177L,SNP_silent,3'-to-5' exonuclease,NSP14:L177L,1,0.181
+3924,C,T,NSP3,P402L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P402L,1,0.181
+3049,T,C,NSP3,D110D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D110D,1,0.181
+22094,G,A,S,D178N,SNP,Spike,S:D178N,1,0.181
+1419,C,G,NSP2,A205G,SNP,Non-Structural protein 2,NSP2:A205G,1,0.181
+1943,C,T,NSP2,R380C,SNP,Non-Structural protein 2,NSP2:R380C,1,0.181
+29272,C,T,N,Y333Y,SNP_silent,Nucleocapsid protein,N:Y333Y,1,0.181
+7101,C,T,NSP3,A1461V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1461V,1,0.181
+8461,T,C,NSP3,A1914A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1914A,1,0.181
+18568,C,T,NSP14,L177F,SNP,3'-to-5' exonuclease,NSP14:L177F,1,0.181
+26208,C,T,ORF3a,S272S,SNP_silent,ORF3a protein,ORF3a:S272S,1,0.181
+28792,A,T,N,A173A,SNP_silent,Nucleocapsid protein,N:A173A,1,0.181
+20962,G,A,NSP16,D102N,SNP,2'-O-ribose methyltransferase,NSP16:D102N,1,0.181
+22094,G,C,S,D178H,SNP,Spike,S:D178H,1,0.181
+27462,T,C,ORF7a,C23C,SNP_silent,ORF7a protein,ORF7a:C23C,1,0.181
+25777,C,T,ORF3a,L129F,SNP,ORF3a protein,ORF3a:L129F,1,0.181
+3841,A,C,NSP3,E374D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E374D,1,0.181
+27336,T,A,ORF6,T45T,SNP_silent,ORF6 protein,ORF6:T45T,1,0.181
+28153,C,G,ORF8,T87R,SNP,ORF8 protein,ORF8:T87R,1,0.181
+25782,C,T,ORF3a,C130C,SNP_silent,ORF3a protein,ORF3a:C130C,1,0.181
+24328,G,T,S,L922F,SNP,Spike,S:L922F,1,0.181
+12049,C,T,NSP7,N69N,SNP_silent,Non-Structural Protein 7,NSP7:N69N,1,0.181
+27879,C,T,ORF7b,H42Y,SNP,ORF7b protein,ORF7b:H42Y,1,0.181
+23405,G,A,S,V615I,SNP,Spike,S:V615I,1,0.181
+28366,A,G,N,E31E,SNP_silent,Nucleocapsid protein,N:E31E,1,0.181
+21843,C,T,S,S94F,SNP,Spike,S:S94F,1,0.181
+25859,A,G,ORF3a,Y156C,SNP,ORF3a protein,ORF3a:Y156C,1,0.181
+25669,C,T,ORF3a,H93Y,SNP,ORF3a protein,ORF3a:H93Y,1,0.181
+12911,G,A,NSP9,V76I,SNP,ssRNA-binding protein,NSP9:V76I,1,0.181
+13119,C,T,NSP10,A32V,SNP,Growth-factor-like protein,NSP10:A32V,1,0.181
+15905,A,G,NSP12b,Q813R,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Q813R,1,0.181
+29200,C,T,N,P309P,SNP_silent,Nucleocapsid protein,N:P309P,1,0.181
+21658,C,T,S,F32F,SNP_silent,Spike,S:F32F,1,0.181
+19029,C,T,NSP14,H330H,SNP_silent,3'-to-5' exonuclease,NSP14:H330H,1,0.181
+6218,T,C,NSP3,K1166K,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1166K,1,0.181
+7717,T,C,NSP3,T1666T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1666T,1,0.181
+9127,T,C,NSP4,Y191Y,SNP_silent,Transmembrane protein,NSP4:Y191Y,1,0.181
+16173,C,T,NSP12b,N902N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N902N,1,0.181
+7772,C,T,NSP3,L1685F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1685F,1,0.181
+16853,G,T,NSP13,G206V,SNP,Helicase,NSP13:G206V,1,0.181
+22335,G,T,S,W258L,SNP,Spike,S:W258L,1,0.181
+25452,C,T,ORF3a,I20I,SNP_silent,ORF3a protein,ORF3a:I20I,1,0.181
+4288,G,A,NSP3,E523E,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:E523E,1,0.181
+4960,G,T,NSP3,V747V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V747V,1,0.181
+13899,T,G,NSP12b,D144E,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D144E,1,0.181
+14277,G,A,NSP12b,R270R,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:R270R,1,0.181
+29440,G,A,N,Q389Q,SNP_silent,Nucleocapsid protein,N:Q389Q,1,0.181
+8389,C,T,NSP3,N1890N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1890N,1,0.181
+4150,T,C,NSP3,V477V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V477V,1,0.181
+9171,T,C,NSP4,L206P,SNP,Transmembrane protein,NSP4:L206P,1,0.181
+16658,C,T,NSP13,T141I,SNP,Helicase,NSP13:T141I,1,0.181
+29017,G,A,N,K248K,SNP_silent,Nucleocapsid protein,N:K248K,1,0.181
+13421,C,T,NSP10,L133F,SNP,Growth-factor-like protein,NSP10:L133F,1,0.181
+1072,A,G,NSP2,E89E,SNP_silent,Non-Structural protein 2,NSP2:E89E,1,0.181
+2742,G,A,NSP3,G8D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G8D,1,0.181
+27707,C,T,ORF7a,A105V,SNP,ORF7a protein,ORF7a:A105V,1,0.181
+1342,C,T,NSP2,Y179Y,SNP_silent,Non-Structural protein 2,NSP2:Y179Y,1,0.181
+6696,C,T,NSP3,P1326L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1326L,1,0.181
+9430,C,T,NSP4,I292I,SNP_silent,Transmembrane protein,NSP4:I292I,1,0.181
+18377,C,T,NSP14,T113I,SNP,3'-to-5' exonuclease,NSP14:T113I,1,0.181
+24784,C,T,S,N1074N,SNP_silent,Spike,S:N1074N,1,0.181
+18810,T,C,NSP14,H257H,SNP_silent,3'-to-5' exonuclease,NSP14:H257H,1,0.181
+28389,A,T,N,Q39L,SNP,Nucleocapsid protein,N:Q39L,1,0.181
+28378,G,T,N,A35A,SNP_silent,Nucleocapsid protein,N:A35A,1,0.181
+2361,A,G,NSP2,K519R,SNP,Non-Structural protein 2,NSP2:K519R,1,0.181
+29553,G,T,3'UTR,29553,extragenic,,3'UTR:29553,1,0.181
+24904,C,G,S,I1114M,SNP,Spike,S:I1114M,1,0.181
+12473,C,T,NSP8,K127K,SNP_silent,Non-Structural Protein 8,NSP8:K127K,1,0.181
+6363,C,T,NSP3,A1215V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1215V,1,0.181
+715,C,T,NSP1,G150G,SNP_silent,Leader protein,NSP1:G150G,1,0.181
+11665,C,T,NSP6,L231L,SNP_silent,Transmembrane protein,NSP6:L231L,1,0.181
+29253,C,T,N,S327L,SNP,Nucleocapsid protein,N:S327L,1,0.181
+1347,C,T,NSP2,P181L,SNP,Non-Structural protein 2,NSP2:P181L,1,0.181
+5467,C,T,NSP3,Y916Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y916Y,1,0.181
+13197,C,T,NSP10,T58I,SNP,Growth-factor-like protein,NSP10:T58I,1,0.181
+28347,G,T,N,G25V,SNP,Nucleocapsid protein,N:G25V,1,0.181
+11732,A,C,NSP6,M254L,SNP,Transmembrane protein,NSP6:M254L,1,0.181
+13308,A,G,NSP10,K95R,SNP,Growth-factor-like protein,NSP10:K95R,1,0.181
+28028,G,T,ORF8,W45C,SNP,ORF8 protein,ORF8:W45C,1,0.181
+29081,G,T,N,V270L,SNP,Nucleocapsid protein,N:V270L,1,0.181
+6504,C,T,NSP3,A1262V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1262V,1,0.181
+26228,C,T,3'UTR,26228,extragenic,,3'UTR:26228,1,0.181
+24748,C,T,S,F1062F,SNP_silent,Spike,S:F1062F,1,0.181
+23586,A,T,S,Q675L,SNP,Spike,S:Q675L,1,0.181
+6996,T,C,NSP3,I1426T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1426T,1,0.181
+1313,A,G,NSP2,T170A,SNP,Non-Structural protein 2,NSP2:T170A,1,0.181
+29311,C,T,N,F346F,SNP_silent,Nucleocapsid protein,N:F346F,1,0.181
+22295,C,T,S,H245Y,SNP,Spike,S:H245Y,1,0.181
+12119,C,T,NSP8,P10S,SNP,Non-Structural Protein 8,NSP8:P10S,1,0.181
+28394,C,T,N,R41W,SNP,Nucleocapsid protein,N:R41W,1,0.181
+2770,T,G,NSP3,G17G,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:G17G,1,0.181
+2939,C,T,NSP3,P74S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P74S,1,0.181
+2607,C,T,NSP2,T601I,SNP,Non-Structural protein 2,NSP2:T601I,1,0.181
+3828,C,T,NSP3,S370L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S370L,1,0.181
+28373,G,T,N,G34W,SNP,Nucleocapsid protein,N:G34W,1,0.181
+10138,C,T,NSP5,N28N,SNP_silent,3C-like proteinase,NSP5:N28N,1,0.181
+5097,A,G,NSP3,N793S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N793S,1,0.181
+14484,C,T,NSP12b,F339F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F339F,1,0.181
+18677,G,A,NSP14,R213H,SNP,3'-to-5' exonuclease,NSP14:R213H,1,0.181
+21745,T,C,S,N61N,SNP_silent,Spike,S:N61N,1,0.181
+19172,C,T,NSP14,T378I,SNP,3'-to-5' exonuclease,NSP14:T378I,1,0.181
+27463,G,T,ORF7a,V24F,SNP,ORF7a protein,ORF7a:V24F,1,0.181
+24178,A,G,S,Q872Q,SNP_silent,Spike,S:Q872Q,1,0.181
+28628,G,T,N,A119S,SNP,Nucleocapsid protein,N:A119S,1,0.181
+219,G,T,5'UTR,219,extragenic,,5'UTR:219,1,0.181
+189,G,A,5'UTR,189,extragenic,,5'UTR:189,1,0.181
+19962,G,A,NSP15,T114T,SNP_silent,endoRNAse,NSP15:T114T,1,0.181
+27788,G,T,ORF7b,L11F,SNP,ORF7b protein,ORF7b:L11F,1,0.181
+25311,G,T,S,C1250F,SNP,Spike,S:C1250F,1,0.181
+24014,A,G,S,I818V,SNP,Spike,S:I818V,1,0.181
+25784,G,T,ORF3a,W131L,SNP,ORF3a protein,ORF3a:W131L,1,0.181
+5183,C,T,NSP3,P822S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P822S,1,0.181
+19101,G,A,NSP14,Q354Q,SNP_silent,3'-to-5' exonuclease,NSP14:Q354Q,1,0.181
+11983,A,G,NSP7,E47E,SNP_silent,Non-Structural Protein 7,NSP7:E47E,1,0.181
+215,A,T,5'UTR,215,extragenic,,5'UTR:215,1,0.181
+18695,C,T,NSP14,T219I,SNP,3'-to-5' exonuclease,NSP14:T219I,1,0.181
+5554,G,A,NSP3,K945K,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:K945K,1,0.181
+19942,G,T,NSP15,A108S,SNP,endoRNAse,NSP15:A108S,1,0.181
+23416,A,T,S,T618T,SNP_silent,Spike,S:T618T,1,0.181
+6070,C,T,NSP3,I1117I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1117I,1,0.181
+13517,C,T,NSP12b,T17I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T17I,1,0.181
+8078,C,T,NSP3,P1787S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1787S,1,0.181
+17030,A,C,NSP13,N265T,SNP,Helicase,NSP13:N265T,1,0.181
+11266,G,T,NSP6,L98F,SNP,Transmembrane protein,NSP6:L98F,1,0.181
+10031,T,A,NSP4,S493T,SNP,Transmembrane protein,NSP4:S493T,1,0.181
+3817,C,T,NSP3,D366D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D366D,1,0.181
+841,C,T,NSP2,G12G,SNP_silent,Non-Structural protein 2,NSP2:G12G,1,0.181
+11308,C,T,NSP6,D112D,SNP_silent,Transmembrane protein,NSP6:D112D,1,0.181
+20433,G,T,NSP15,M271I,SNP,endoRNAse,NSP15:M271I,1,0.181
+20016,C,T,NSP15,D132D,SNP_silent,endoRNAse,NSP15:D132D,1,0.181
+17676,C,T,NSP13,I480I,SNP_silent,Helicase,NSP13:I480I,1,0.181
+10162,T,C,NSP5,V36V,SNP_silent,3C-like proteinase,NSP5:V36V,1,0.181
+806,G,A,3'UTR,806,extragenic,,3'UTR:806,1,0.181
+1514,C,T,NSP2,H237Y,SNP,Non-Structural protein 2,NSP2:H237Y,1,0.181
+9969,C,T,NSP4,A472V,SNP,Transmembrane protein,NSP4:A472V,1,0.181
+6463,G,T,NSP3,V1248V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1248V,1,0.181
+6726,C,T,NSP3,T1336I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1336I,1,0.181
+11243,G,T,NSP6,V91L,SNP,Transmembrane protein,NSP6:V91L,1,0.181
+21145,C,T,NSP16,L163F,SNP,2'-O-ribose methyltransferase,NSP16:L163F,1,0.181
+28093,C,T,ORF8,S67F,SNP,ORF8 protein,ORF8:S67F,1,0.181
+28411,C,T,N,P46P,SNP_silent,Nucleocapsid protein,N:P46P,1,0.181
+25889,C,T,ORF3a,S166L,SNP,ORF3a protein,ORF3a:S166L,1,0.181
+2695,C,T,NSP2,N630N,SNP_silent,Non-Structural protein 2,NSP2:N630N,1,0.181
+26217,G,T,ORF3a,L275F,SNP,ORF3a protein,ORF3a:L275F,1,0.181
+23513,A,G,S,I651V,SNP,Spike,S:I651V,1,0.181
+16900,G,A,NSP13,G222S,SNP,Helicase,NSP13:G222S,1,0.181
+22747,C,T,S,V395V,SNP_silent,Spike,S:V395V,1,0.181
+19482,T,C,NSP14,G481G,SNP_silent,3'-to-5' exonuclease,NSP14:G481G,1,0.181
+19018,C,A,NSP14,P327T,SNP,3'-to-5' exonuclease,NSP14:P327T,1,0.181
+18756,G,T,NSP14,P239P,SNP_silent,3'-to-5' exonuclease,NSP14:P239P,1,0.181
+4957,A,C,NSP3,E746D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E746D,1,0.181
+25831,C,T,ORF3a,L147F,SNP,ORF3a protein,ORF3a:L147F,1,0.181
+1659,G,T,NSP2,G285V,SNP,Non-Structural protein 2,NSP2:G285V,1,0.181
+218,C,T,5'UTR,218,extragenic,,5'UTR:218,1,0.181
+13665,C,T,NSP12b,H66H,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:H66H,1,0.181
+13715,A,G,NSP12b,D83G,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D83G,1,0.181
+23522,G,C,S,E654Q,SNP,Spike,S:E654Q,1,0.181
+28419,C,A,N,T49N,SNP,Nucleocapsid protein,N:T49N,1,0.181
+13176,C,T,NSP10,T51I,SNP,Growth-factor-like protein,NSP10:T51I,1,0.181
+27607,A,T,ORF7a,K72*,SNP_stop,ORF7a protein,ORF7a:K72*,1,0.181
+29867,T,A,3'UTR,29867,extragenic,,3'UTR:29867,1,0.181
+6843,C,T,NSP3,S1375F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1375F,1,0.181
+2334,C,T,NSP2,A510V,SNP,Non-Structural protein 2,NSP2:A510V,1,0.181
+2525,G,A,NSP2,E574K,SNP,Non-Structural protein 2,NSP2:E574K,1,0.181
+3458,C,A,NSP3,L247I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L247I,1,0.181
+3538,A,G,NSP3,I273M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I273M,1,0.181
+4788,C,T,NSP3,A690V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A690V,1,0.181
+6310,C,T,NSP3,S1197S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1197S,1,0.181
+6896,C,T,NSP3,C1392C,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:C1392C,1,0.181
+2025,C,A,NSP2,T407K,SNP,Non-Structural protein 2,NSP2:T407K,1,0.181
+12904,T,C,NSP9,C73C,SNP_silent,ssRNA-binding protein,NSP9:C73C,1,0.181
+18395,C,T,NSP14,A119V,SNP,3'-to-5' exonuclease,NSP14:A119V,1,0.181
+21120,T,C,NSP16,C154C,SNP_silent,2'-O-ribose methyltransferase,NSP16:C154C,1,0.181
+20964,C,T,NSP16,D102D,SNP_silent,2'-O-ribose methyltransferase,NSP16:D102D,1,0.181
+21578,G,A,S,V6I,SNP,Spike,S:V6I,1,0.181
+23481,C,T,S,S640F,SNP,Spike,S:S640F,1,0.181
+19572,C,T,NSP14,Y511Y,SNP_silent,3'-to-5' exonuclease,NSP14:Y511Y,1,0.181
+11941,C,T,NSP7,V33V,SNP_silent,Non-Structural Protein 7,NSP7:V33V,1,0.181
+1397,G,A,NSP2,V198I,SNP,Non-Structural protein 2,NSP2:V198I,1,0.181
+21818,TTTAATGATGGTG,.,S,P85,deletion_frameshift,Spike,S:P85,1,0.181
+28011,C,T,ORF8,H40Y,SNP,ORF8 protein,ORF8:H40Y,1,0.181
+5055,C,T,NSP3,T779I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T779I,1,0.181
+28087,C,T,ORF8,A65V,SNP,ORF8 protein,ORF8:A65V,1,0.181
+11674,C,T,NSP6,Y234Y,SNP_silent,Transmembrane protein,NSP6:Y234Y,1,0.181
+17883,C,T,NSP13,T549T,SNP_silent,Helicase,NSP13:T549T,1,0.181
+21677,C,T,S,P39S,SNP,Spike,S:P39S,1,0.181
+20145,G,T,NSP15,Q175H,SNP,endoRNAse,NSP15:Q175H,1,0.181
+28253,C,T,ORF8,F120F,SNP_silent,ORF8 protein,ORF8:F120F,1,0.181
+4105,G,T,NSP3,K462N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K462N,1,0.181
+26897,T,C,M,H125H,SNP_silent,Membrane,M:H125H,1,0.181
+26521,C,T,3'UTR,26521,extragenic,,3'UTR:26521,1,0.181
+2388,C,T,NSP2,T528I,SNP,Non-Structural protein 2,NSP2:T528I,1,0.181
+28486,C,T,N,G71G,SNP_silent,Nucleocapsid protein,N:G71G,1,0.181
+29734,G,A,3'UTR,29734,extragenic,,3'UTR:29734,1,0.181
+7618,T,C,NSP3,N1633N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1633N,1,0.181
+25793,G,T,ORF3a,R134L,SNP,ORF3a protein,ORF3a:R134L,1,0.181
+22744,T,C,S,N394N,SNP_silent,Spike,S:N394N,1,0.181
+20399,A,G,NSP15,E260G,SNP,endoRNAse,NSP15:E260G,1,0.181
+2013,C,T,NSP2,A403V,SNP,Non-Structural protein 2,NSP2:A403V,1,0.181
+24727,A,G,S,S1055S,SNP_silent,Spike,S:S1055S,1,0.181
+28270,TA,.,3'UTR,28270,extragenic,,3'UTR:28270,1,0.181
+4348,T,G,NSP3,S543S,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:S543S,1,0.181
+18318,G,A,NSP14,G93G,SNP_silent,3'-to-5' exonuclease,NSP14:G93G,1,0.181
+7831,T,C,NSP3,V1704V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1704V,1,0.181
+2147,C,T,NSP2,L448F,SNP,Non-Structural protein 2,NSP2:L448F,1,0.181
+14786,C,T,NSP12b,A440V,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A440V,1,0.181
+1810,A,C,NSP2,K335N,SNP,Non-Structural protein 2,NSP2:K335N,1,0.181
+25252,G,T,S,V1230V,SNP_silent,Spike,S:V1230V,1,0.181
+28340,T,C,N,S23P,SNP,Nucleocapsid protein,N:S23P,1,0.181
+17796,T,C,NSP13,A520A,SNP_silent,Helicase,NSP13:A520A,1,0.181
+17278,G,T,NSP13,V348L,SNP,Helicase,NSP13:V348L,1,0.181
+19961,C,T,NSP15,T114M,SNP,endoRNAse,NSP15:T114M,1,0.181
+16474,A,G,NSP13,S80G,SNP,Helicase,NSP13:S80G,1,0.181
+25596,A,T,ORF3a,R68S,SNP,ORF3a protein,ORF3a:R68S,1,0.181
+23463,G,A,S,R634H,SNP,Spike,S:R634H,1,0.181
+721,T,C,NSP1,D152D,SNP_silent,Leader protein,NSP1:D152D,1,0.181
+26985,C,T,M,H155Y,SNP,Membrane,M:H155Y,1,0.181
+28791,C,T,N,A173V,SNP,Nucleocapsid protein,N:A173V,1,0.181
+3738,C,T,NSP3,P340L,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P340L,1,0.181
+29706,G,A,3'UTR,29706,extragenic,,3'UTR:29706,1,0.181
+23625,C,T,S,A688V,SNP,Spike,S:A688V,1,0.181
+23611,G,T,S,R683R,SNP_silent,Spike,S:R683R,1,0.181
+27940,T,G,ORF8,F16C,SNP,ORF8 protein,ORF8:F16C,1,0.181
+472,G,T,NSP1,V69V,SNP_silent,Leader protein,NSP1:V69V,1,0.181
+788,C,T,NSP1,R175C,SNP,Leader protein,NSP1:R175C,1,0.181
+24819,A,G,S,K1086R,SNP,Spike,S:K1086R,1,0.181
+11417,G,A,NSP6,V149I,SNP,Transmembrane protein,NSP6:V149I,1,0.181
+3118,T,C,NSP3,T133T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T133T,1,0.181
+20741,A,T,NSP16,Q28L,SNP,2'-O-ribose methyltransferase,NSP16:Q28L,1,0.181
+9203,G,A,NSP4,D217N,SNP,Transmembrane protein,NSP4:D217N,1,0.181
+6267,C,T,NSP3,A1183V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1183V,1,0.181
+22706,G,T,S,V382L,SNP,Spike,S:V382L,1,0.181
+11962,C,T,NSP7,L40L,SNP_silent,Non-Structural Protein 7,NSP7:L40L,1,0.181
+4212,C,T,NSP3,A498V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A498V,1,0.181
+13297,C,T,NSP10,D91D,SNP_silent,Growth-factor-like protein,NSP10:D91D,1,0.181
+10537,C,T,NSP5,Y161Y,SNP_silent,3C-like proteinase,NSP5:Y161Y,1,0.181
+12509,A,T,NSP8,N140Y,SNP,Non-Structural Protein 8,NSP8:N140Y,1,0.181
+20437,A,G,NSP15,S273G,SNP,endoRNAse,NSP15:S273G,1,0.181
+23426,G,T,S,V622F,SNP,Spike,S:V622F,1,0.181
+18486,C,T,NSP14,L149L,SNP_silent,3'-to-5' exonuclease,NSP14:L149L,1,0.181
+18994,G,A,NSP14,A319T,SNP,3'-to-5' exonuclease,NSP14:A319T,1,0.181
+17135,C,T,NSP13,P300L,SNP,Helicase,NSP13:P300L,1,0.181
+959,C,T,NSP2,R52C,SNP,Non-Structural protein 2,NSP2:R52C,1,0.181
+10369,C,T,NSP5,R105R,SNP_silent,3C-like proteinase,NSP5:R105R,1,0.181
+3156,C,T,NSP3,A146V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A146V,1,0.181
+23608,G,A,S,R682R,SNP_silent,Spike,S:R682R,1,0.181
+2246,G,A,NSP2,G481S,SNP,Non-Structural protein 2,NSP2:G481S,1,0.181
+21859,C,T,S,N99N,SNP_silent,Spike,S:N99N,1,0.181
+8247,C,T,NSP3,S1843F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1843F,1,0.181
+29386,C,A,N,D371E,SNP,Nucleocapsid protein,N:D371E,1,0.181
+4194,C,T,NSP3,T492I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T492I,1,0.181
+25958,A,G,ORF3a,Y189C,SNP,ORF3a protein,ORF3a:Y189C,1,0.181
+9223,C,T,NSP4,H223H,SNP_silent,Transmembrane protein,NSP4:H223H,1,0.181
+6401,C,T,NSP3,P1228S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1228S,1,0.181
+6537,G,A,NSP3,G1273D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G1273D,1,0.181
+8771,A,G,NSP4,T73A,SNP,Transmembrane protein,NSP4:T73A,1,0.181
+9165,C,T,NSP4,T204I,SNP,Transmembrane protein,NSP4:T204I,1,0.181
+21621,C,T,S,T20I,SNP,Spike,S:T20I,1,0.181
+7093,C,T,NSP3,V1458V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1458V,1,0.181
+26262,G,A,E,S6S,SNP_silent,Envelope,E:S6S,1,0.181
+21777,G,T,S,G72V,SNP,Spike,S:G72V,1,0.181
+29227,G,T,N,S318S,SNP_silent,Nucleocapsid protein,N:S318S,1,0.181
+26737,G,A,M,R72K,SNP,Membrane,M:R72K,1,0.181
+786,T,A,NSP1,M174K,SNP,Leader protein,NSP1:M174K,1,0.181
+14094,T,C,NSP12b,D209D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D209D,1,0.181
+13280,C,T,NSP10,P86S,SNP,Growth-factor-like protein,NSP10:P86S,1,0.181
+23438,G,A,S,A626T,SNP,Spike,S:A626T,1,0.181
+3365,C,T,NSP3,L216F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L216F,1,0.181
+15579,C,T,NSP12b,N704N,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:N704N,1,0.181
+1221,C,T,NSP2,T139I,SNP,Non-Structural protein 2,NSP2:T139I,1,0.181
+3692,G,T,NSP3,V325F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V325F,1,0.181
+21812,C,T,S,V83V,SNP_silent,Spike,S:V83V,1,0.181
+21819,T,.,S,F86,deletion_frameshift,Spike,S:F86,1,0.181
+14183,C,T,NSP12b,T239I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T239I,1,0.181
+11898,A,G,NSP7,Q19R,SNP,Non-Structural Protein 7,NSP7:Q19R,1,0.181
+15981,C,T,NSP12b,I838I,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:I838I,1,0.181
+28403,G,T,N,G44C,SNP,Nucleocapsid protein,N:G44C,1,0.181
+22288,TGCT,.,S,L242,deletion_frameshift,Spike,S:L242,1,0.181
+4963,G,T,NSP3,R748S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:R748S,1,0.181
+13201,G,T,NSP10,P59P,SNP_silent,Growth-factor-like protein,NSP10:P59P,1,0.181
+12514,G,T,NSP8,T141T,SNP_silent,Non-Structural Protein 8,NSP8:T141T,1,0.181
+22294,AC,.,S,L244,deletion_frameshift,Spike,S:L244,1,0.181
+9113,C,T,NSP4,P187S,SNP,Transmembrane protein,NSP4:P187S,1,0.181
+4068,C,T,NSP3,A450V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A450V,1,0.181
+1642,C,T,NSP2,V279V,SNP_silent,Non-Structural protein 2,NSP2:V279V,1,0.181
+22080,A,T,S,Q173L,SNP,Spike,S:Q173L,1,0.181
+29752,A,G,3'UTR,29752,extragenic,,3'UTR:29752,1,0.181
+8353,G,T,NSP3,A1878A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1878A,1,0.181
+14604,A,G,NSP12b,L379L,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:L379L,1,0.181
+5654,C,T,NSP3,Y978Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y978Y,1,0.181
+8020,A,T,NSP3,E1767D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1767D,1,0.181
+17550,C,T,NSP13,L438L,SNP_silent,Helicase,NSP13:L438L,1,0.181
+17046,A,G,NSP13,Q270Q,SNP_silent,Helicase,NSP13:Q270Q,1,0.181
+16394,C,T,NSP13,P53L,SNP,Helicase,NSP13:P53L,1,0.181
+16375,C,T,NSP13,P47S,SNP,Helicase,NSP13:P47S,1,0.181
+17163,C,T,NSP13,C309C,SNP_silent,Helicase,NSP13:C309C,1,0.181
+17375,C,T,NSP13,T380I,SNP,Helicase,NSP13:T380I,1,0.181
+19047,A,G,NSP14,K336K,SNP_silent,3'-to-5' exonuclease,NSP14:K336K,1,0.181
+11491,T,C,NSP6,S173S,SNP_silent,Transmembrane protein,NSP6:S173S,1,0.181
+5425,G,T,NSP3,K902N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K902N,1,0.181
+2827,T,G,NSP3,N36K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N36K,1,0.181
+1358,G,T,NSP2,V185F,SNP,Non-Structural protein 2,NSP2:V185F,1,0.181
+25595,G,T,ORF3a,R68I,SNP,ORF3a protein,ORF3a:R68I,1,0.181
+4586,C,T,NSP3,D622D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D622D,1,0.181
+19452,T,C,NSP14,A471A,SNP_silent,3'-to-5' exonuclease,NSP14:A471A,1,0.181
+19464,A,G,NSP14,T475T,SNP_silent,3'-to-5' exonuclease,NSP14:T475T,1,0.181
+25714,C,T,ORF3a,L108F,SNP,ORF3a protein,ORF3a:L108F,1,0.181
+27651,G,T,ORF7a,L86L,SNP_silent,ORF7a protein,ORF7a:L86L,1,0.181
+6813,C,T,NSP3,T1365I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1365I,1,0.181
+7171,T,C,NSP3,P1484P,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:P1484P,1,0.181
+19305,T,C,NSP14,N422N,SNP_silent,3'-to-5' exonuclease,NSP14:N422N,1,0.181
+26978,T,C,M,A152A,SNP_silent,Membrane,M:A152A,1,0.181
+28154,A,T,ORF8,T87T,SNP_silent,ORF8 protein,ORF8:T87T,1,0.181
+21880,T,C,S,F106F,SNP_silent,Spike,S:F106F,1,0.181
+26936,C,T,M,L138L,SNP_silent,Membrane,M:L138L,1,0.181
+11209,T,C,NSP6,A79A,SNP_silent,Transmembrane protein,NSP6:A79A,1,0.181
+19983,C,T,NSP15,V121V,SNP_silent,endoRNAse,NSP15:V121V,1,0.181
+24381,C,T,S,S940F,SNP,Spike,S:S940F,1,0.181
+1471,C,T,NSP2,R222R,SNP_silent,Non-Structural protein 2,NSP2:R222R,1,0.181
+6268,C,A,NSP3,A1183A,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1183A,1,0.181
+17036,C,T,NSP13,A267V,SNP,Helicase,NSP13:A267V,1,0.181
+29362,C,T,N,F363F,SNP_silent,Nucleocapsid protein,N:F363F,1,0.181
+27679,C,T,ORF7a,L96F,SNP,ORF7a protein,ORF7a:L96F,1,0.181
+12400,C,T,NSP8,L103L,SNP_silent,Non-Structural Protein 8,NSP8:L103L,1,0.181
+28804,A,G,N,R177R,SNP_silent,Nucleocapsid protein,N:R177R,1,0.181
+11943,A,G,NSP7,Q34R,SNP,Non-Structural Protein 7,NSP7:Q34R,1,0.181
+4822,A,G,NSP3,Q701Q,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q701Q,1,0.181
+5388,C,G,NSP3,A890G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A890G,1,0.181
+25899,T,C,ORF3a,I169I,SNP_silent,ORF3a protein,ORF3a:I169I,1,0.181
+8664,C,T,NSP4,T37I,SNP,Transmembrane protein,NSP4:T37I,1,0.181
+8476,C,T,NSP3,N1919N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1919N,1,0.181
+10225,A,G,NSP5,L57L,SNP_silent,3C-like proteinase,NSP5:L57L,1,0.181
+20134,G,T,NSP15,V172L,SNP,endoRNAse,NSP15:V172L,1,0.181
+27459,G,T,ORF7a,E22D,SNP,ORF7a protein,ORF7a:E22D,1,0.181
+4353,A,G,NSP3,E545G,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E545G,1,0.181
+19363,T,C,NSP14,Q441Q,SNP_silent,3'-to-5' exonuclease,NSP14:Q441Q,1,0.181
+11833,C,T,NSP6,A287A,SNP_silent,Transmembrane protein,NSP6:A287A,1,0.181
+22778,G,C,S,E406Q,SNP,Spike,S:E406Q,1,0.181
+23248,C,T,S,F562F,SNP_silent,Spike,S:F562F,1,0.181
+22893,A,G,S,K444R,SNP,Spike,S:K444R,1,0.181
+27675,A,C,ORF7a,Q94H,SNP,ORF7a protein,ORF7a:Q94H,1,0.181
+20055,A,G,NSP15,E145E,SNP_silent,endoRNAse,NSP15:E145E,1,0.181
+23198,T,C,S,G545G,SNP_silent,Spike,S:G545G,1,0.181
+1958,G,A,NSP2,A385T,SNP,Non-Structural protein 2,NSP2:A385T,1,0.181
+686,A,C,NSP1,K141Q,SNP,Leader protein,NSP1:K141Q,1,0.181
+26109,G,A,ORF3a,E239E,SNP_silent,ORF3a protein,ORF3a:E239E,1,0.181
+24073,T,C,S,Y837Y,SNP_silent,Spike,S:Y837Y,1,0.181
+21457,A,G,NSP16,I267V,SNP,2'-O-ribose methyltransferase,NSP16:I267V,1,0.181
+9166,C,T,NSP4,T204T,SNP_silent,Transmembrane protein,NSP4:T204T,1,0.181
+25912,G,A,ORF3a,G174S,SNP,ORF3a protein,ORF3a:G174S,1,0.181
+6533,G,A,NSP3,V1272I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1272I,1,0.181
+23012,G,C,S,E484Q,SNP,Spike,S:E484Q,1,0.181
+3874,C,T,NSP3,I385I,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:I385I,1,0.181
+28731,A,G,N,N153S,SNP,Nucleocapsid protein,N:N153S,1,0.181
+23125,A,G,S,P521P,SNP_silent,Spike,S:P521P,1,0.181
+6606,C,T,NSP3,S1296F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1296F,1,0.181
+13860,C,T,NSP12b,D131D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D131D,1,0.181
+18887,A,G,NSP14,H283R,SNP,3'-to-5' exonuclease,NSP14:H283R,1,0.181
+29511,G,T,N,S413I,SNP,Nucleocapsid protein,N:S413I,1,0.181
+11026,T,C,NSP6,I18I,SNP_silent,Transmembrane protein,NSP6:I18I,1,0.181
+17478,G,A,NSP13,K414K,SNP_silent,Helicase,NSP13:K414K,1,0.181
+12853,C,T,NSP9,F56F,SNP_silent,ssRNA-binding protein,NSP9:F56F,1,0.181
+16493,A,G,NSP13,N86S,SNP,Helicase,NSP13:N86S,1,0.181
+19366,C,T,NSP14,P443S,SNP,3'-to-5' exonuclease,NSP14:P443S,1,0.181
+18465,T,C,NSP14,P142P,SNP_silent,3'-to-5' exonuclease,NSP14:P142P,1,0.181
+25481,G,T,ORF3a,R30L,SNP,ORF3a protein,ORF3a:R30L,1,0.181
+9013,T,G,NSP4,A153A,SNP_silent,Transmembrane protein,NSP4:A153A,1,0.181
+11474,A,G,NSP6,I168V,SNP,Transmembrane protein,NSP6:I168V,1,0.181
+3152,G,T,NSP3,G145C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G145C,1,0.181
+18114,A,T,NSP14,T25T,SNP_silent,3'-to-5' exonuclease,NSP14:T25T,1,0.181
+9745,C,T,NSP4,Y397Y,SNP_silent,Transmembrane protein,NSP4:Y397Y,1,0.181
+15201,A,G,NSP12b,V578V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V578V,1,0.181
+18972,G,T,NSP14,K311N,SNP,3'-to-5' exonuclease,NSP14:K311N,1,0.181
+5544,C,T,NSP3,T942I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T942I,1,0.181
+20397,G,T,NSP15,K259N,SNP,endoRNAse,NSP15:K259N,1,0.181
+5246,G,A,NSP3,V843I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V843I,1,0.181
+17172,C,T,NSP13,A312A,SNP_silent,Helicase,NSP13:A312A,1,0.181
+18928,C,T,NSP14,P297S,SNP,3'-to-5' exonuclease,NSP14:P297S,1,0.181
+15848,C,T,NSP12b,T794I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T794I,1,0.181
+3351,G,A,NSP3,S211N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S211N,1,0.181
+2945,G,T,NSP3,G76C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:G76C,1,0.181
+21866,A,G,S,R102G,SNP,Spike,S:R102G,1,0.181
+23040,A,G,S,Q493R,SNP,Spike,S:Q493R,1,0.181
+2485,C,T,NSP2,I560I,SNP_silent,Non-Structural protein 2,NSP2:I560I,1,0.181
+21638,C,T,S,P26S,SNP,Spike,S:P26S,1,0.181
+28744,C,A,N,I157I,SNP_silent,Nucleocapsid protein,N:I157I,1,0.181
+4344,T,C,NSP3,I542T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I542T,1,0.181
+1386,A,G,NSP2,H194R,SNP,Non-Structural protein 2,NSP2:H194R,1,0.181
+10036,C,T,NSP4,I494I,SNP_silent,Transmembrane protein,NSP4:I494I,1,0.181
+4166,A,G,NSP3,I483V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I483V,1,0.181
+5356,T,C,NSP3,D879D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D879D,1,0.181
+26634,G,T,M,A38S,SNP,Membrane,M:A38S,1,0.181
+26746,G,T,M,W75L,SNP,Membrane,M:W75L,1,0.181
+27208,C,T,ORF6,H3Y,SNP,ORF6 protein,ORF6:H3Y,1,0.181
+691,AT,CG,NSP1,F143V,SNP,Leader protein,NSP1:F143V,1,0.181
+896,G,A,NSP2,A31T,SNP,Non-Structural protein 2,NSP2:A31T,1,0.181
+2976,C,T,NSP3,T86I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T86I,1,0.181
+11394,C,T,NSP6,T141I,SNP,Transmembrane protein,NSP6:T141I,1,0.181
+25026,A,T,S,Y1155F,SNP,Spike,S:Y1155F,1,0.181
+25237,T,C,S,I1225I,SNP_silent,Spike,S:I1225I,1,0.181
+12068,C,T,NSP7,M75M,SNP_silent,Non-Structural Protein 7,NSP7:M75M,1,0.181
+12342,C,T,NSP8,T84I,SNP,Non-Structural Protein 8,NSP8:T84I,1,0.181
+11438,A,G,NSP6,N156D,SNP,Transmembrane protein,NSP6:N156D,1,0.181
+14259,T,C,NSP12b,Y264Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y264Y,1,0.181
+8123,C,G,NSP3,L1802V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1802V,1,0.181
+21156,C,A,NSP16,S166S,SNP_silent,2'-O-ribose methyltransferase,NSP16:S166S,1,0.181
+29067,C,T,N,T265I,SNP,Nucleocapsid protein,N:T265I,1,0.181
+8989,T,C,NSP4,F145F,SNP_silent,Transmembrane protein,NSP4:F145F,1,0.181
+8407,C,T,NSP3,N1896N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1896N,1,0.181
+21013,C,T,NSP16,H119Y,SNP,2'-O-ribose methyltransferase,NSP16:H119Y,1,0.181
+21552,C,T,3'UTR,21552,extragenic,,3'UTR:21552,1,0.181
+26861,T,C,M,N113N,SNP_silent,Membrane,M:N113N,1,0.181
+15774,C,T,NSP12b,S769S,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:S769S,1,0.181
+17687,T,C,NSP13,V484A,SNP,Helicase,NSP13:V484A,1,0.181
+14910,T,C,NSP12b,A481A,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A481A,1,0.181
+3904,A,G,NSP3,P395P,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:P395P,1,0.181
+10240,T,C,NSP5,S62S,SNP_silent,3C-like proteinase,NSP5:S62S,1,0.181
+23506,C,T,S,G648G,SNP_silent,Spike,S:G648G,1,0.181
+26147,C,T,ORF3a,S252L,SNP,ORF3a protein,ORF3a:S252L,1,0.181
+26107,G,A,ORF3a,E239K,SNP,ORF3a protein,ORF3a:E239K,1,0.181
+3779,A,C,NSP3,N354H,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N354H,1,0.181
+24680,G,T,S,V1040F,SNP,Spike,S:V1040F,1,0.181
+9347,A,G,NSP4,T265A,SNP,Transmembrane protein,NSP4:T265A,1,0.181
+26497,T,C,3'UTR,26497,extragenic,,3'UTR:26497,1,0.181
+9973,G,A,NSP4,K473K,SNP_silent,Transmembrane protein,NSP4:K473K,1,0.181
+9559,C,T,NSP4,Y335Y,SNP_silent,Transmembrane protein,NSP4:Y335Y,1,0.181
+8821,A,T,NSP4,P89P,SNP_silent,Transmembrane protein,NSP4:P89P,1,0.181
+14952,T,C,NSP12b,F495F,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:F495F,1,0.181
+15360,C,T,NSP12b,R631R,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:R631R,1,0.181
+22092,T,C,S,M177T,SNP,Spike,S:M177T,1,0.181
+12566,G,T,NSP8,V159F,SNP,Non-Structural Protein 8,NSP8:V159F,1,0.181
+16830,C,T,NSP13,Y198Y,SNP_silent,Helicase,NSP13:Y198Y,1,0.181
+17396,T,C,NSP13,V387A,SNP,Helicase,NSP13:V387A,1,0.181
+6459,A,C,NSP3,N1247T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1247T,1,0.181
+29218,C,T,N,F315F,SNP_silent,Nucleocapsid protein,N:F315F,1,0.181
+9678,T,C,NSP4,F375S,SNP,Transmembrane protein,NSP4:F375S,1,0.181
+24357,G,T,S,G932V,SNP,Spike,S:G932V,1,0.181
+23457,C,T,S,T632I,SNP,Spike,S:T632I,1,0.181
+12892,G,A,NSP9,L69L,SNP_silent,ssRNA-binding protein,NSP9:L69L,1,0.181
+7318,C,T,NSP3,F1533F,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1533F,1,0.181
+14585,C,T,NSP12b,A373V,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A373V,1,0.181
+21993,A,T,S,Y144F,SNP,Spike,S:Y144F,1,0.181
+817,C,T,NSP2,R4R,SNP_silent,Non-Structural protein 2,NSP2:R4R,1,0.181
+20679,G,T,NSP16,P7P,SNP_silent,2'-O-ribose methyltransferase,NSP16:P7P,1,0.181
+15597,T,C,NSP12b,Y710Y,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Y710Y,1,0.181
+3083,G,A,NSP3,E122K,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E122K,1,0.181
+26165,C,T,ORF3a,P258L,SNP,ORF3a protein,ORF3a:P258L,1,0.181
+18891,G,T,NSP14,E284D,SNP,3'-to-5' exonuclease,NSP14:E284D,1,0.181
+19586,C,T,NSP14,T516I,SNP,3'-to-5' exonuclease,NSP14:T516I,1,0.181
+21770,G,A,S,V70I,SNP,Spike,S:V70I,1,0.181
+21742,C,T,S,S60S,SNP_silent,Spike,S:S60S,1,0.181
+6701,C,G,NSP3,L1328V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1328V,1,0.181
+23635,C,T,S,S691S,SNP_silent,Spike,S:S691S,1,0.181
+25792,C,T,ORF3a,R134C,SNP,ORF3a protein,ORF3a:R134C,1,0.181
+27570,TAGCACTCAATT,.,ORF7a,S60,deletion,ORF7a protein,ORF7a:S60,1,0.181
+28687,C,T,N,A138A,SNP_silent,Nucleocapsid protein,N:A138A,1,0.181
+6573,C,T,NSP3,S1285F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1285F,1,0.181
+21684,A,G,S,K41R,SNP,Spike,S:K41R,1,0.181
+11719,G,A,NSP6,Q249Q,SNP_silent,Transmembrane protein,NSP6:Q249Q,1,0.181
+4682,G,T,NSP3,A655S,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A655S,1,0.181
+12534,C,T,NSP8,T148I,SNP,Non-Structural Protein 8,NSP8:T148I,1,0.181
+17104,C,T,NSP13,H290Y,SNP,Helicase,NSP13:H290Y,1,0.181
+21057,C,T,NSP16,D133D,SNP_silent,2'-O-ribose methyltransferase,NSP16:D133D,1,0.181
+21597,C,T,S,S12F,SNP,Spike,S:S12F,1,0.181
+18937,G,T,NSP14,G300C,SNP,3'-to-5' exonuclease,NSP14:G300C,1,0.181
+11113,G,A,NSP6,M47I,SNP,Transmembrane protein,NSP6:M47I,1,0.181
+3876,C,T,NSP3,A386V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A386V,1,0.181
+22973,G,C,S,E471Q,SNP,Spike,S:E471Q,1,0.181
+22316,G,A,S,G252S,SNP,Spike,S:G252S,1,0.181
+26735,C,T,M,Y71Y,SNP_silent,Membrane,M:Y71Y,1,0.181
+29666,C,T,ORF10,L37F,SNP,ORF10 protein,ORF10:L37F,1,0.181
+29688,G,T,3'UTR,29688,extragenic,,3'UTR:29688,1,0.181
+27634,T,C,ORF7a,S81P,SNP,ORF7a protein,ORF7a:S81P,1,0.181
+27469,G,A,ORF7a,G26S,SNP,ORF7a protein,ORF7a:G26S,1,0.181
+23758,C,T,S,T732T,SNP_silent,Spike,S:T732T,1,0.181
+22453,A,G,S,S297S,SNP_silent,Spike,S:S297S,1,0.181
+17418,G,A,NSP13,K394K,SNP_silent,Helicase,NSP13:K394K,1,0.181
+11503,T,C,NSP6,G177G,SNP_silent,Transmembrane protein,NSP6:G177G,1,0.181
+10954,C,T,NSP5,C300C,SNP_silent,3C-like proteinase,NSP5:C300C,1,0.181
+7360,G,T,NSP3,M1547I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M1547I,1,0.181
+4276,C,T,NSP3,Y519Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y519Y,1,0.181
+3282,T,C,NSP3,V188A,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V188A,1,0.181
+14155,T,G,NSP12b,S230A,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:S230A,1,0.181
+14835,T,C,NSP12b,D456D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D456D,1,0.181
+13329,C,T,NSP10,T102I,SNP,Growth-factor-like protein,NSP10:T102I,1,0.181
+5731,T,C,NSP3,T1004T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1004T,1,0.181
+27561,G,T,ORF7a,L56L,SNP_silent,ORF7a protein,ORF7a:L56L,1,0.181
+64,C,T,5'UTR,64,extragenic,,5'UTR:64,1,0.181
+20476,G,A,NSP15,G286S,SNP,endoRNAse,NSP15:G286S,1,0.181
+26461,C,T,E,L73F,SNP,Envelope,E:L73F,1,0.181
+19662,C,T,NSP15,H14H,SNP_silent,endoRNAse,NSP15:H14H,1,0.181
+8131,G,T,NSP3,K1804N,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:K1804N,1,0.181
+8958,C,T,NSP4,T135I,SNP,Transmembrane protein,NSP4:T135I,1,0.181
+1073,T,A,NSP2,C90S,SNP,Non-Structural protein 2,NSP2:C90S,1,0.181
+462,A,G,NSP1,Q66R,SNP,Leader protein,NSP1:Q66R,1,0.181
+26964,C,T,M,H148Y,SNP,Membrane,M:H148Y,1,0.181
+20580,G,T,NSP15,V320V,SNP_silent,endoRNAse,NSP15:V320V,1,0.181
+18540,A,G,NSP14,V167V,SNP_silent,3'-to-5' exonuclease,NSP14:V167V,1,0.181
+6032,G,A,NSP3,A1105T,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A1105T,1,0.181
+176,C,T,5'UTR,176,extragenic,,5'UTR:176,1,0.181
+9400,A,G,NSP4,A282A,SNP_silent,Transmembrane protein,NSP4:A282A,1,0.181
+9536,G,A,NSP4,V328I,SNP,Transmembrane protein,NSP4:V328I,1,0.181
+13309,G,A,NSP10,K95K,SNP_silent,Growth-factor-like protein,NSP10:K95K,1,0.181
+12789,C,T,NSP9,T35I,SNP,ssRNA-binding protein,NSP9:T35I,1,0.181
+10989,C,T,NSP6,T6I,SNP,Transmembrane protein,NSP6:T6I,1,0.181
+24277,G,A,S,R905R,SNP_silent,Spike,S:R905R,1,0.181
+26208,C,G,ORF3a,S272R,SNP,ORF3a protein,ORF3a:S272R,1,0.181
+8908,T,C,NSP4,F118F,SNP_silent,Transmembrane protein,NSP4:F118F,1,0.181
+7095,C,T,NSP3,T1459I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T1459I,1,0.181
+12065,A,G,NSP7,M75V,SNP,Non-Structural Protein 7,NSP7:M75V,1,0.181
+8905,C,T,NSP4,D117D,SNP_silent,Transmembrane protein,NSP4:D117D,1,0.181
+21761,G,T,S,A67S,SNP,Spike,S:A67S,1,0.181
+6274,T,C,NSP3,Y1185Y,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:Y1185Y,1,0.181
+27285,T,C,ORF6,N28N,SNP_silent,ORF6 protein,ORF6:N28N,1,0.181
+4003,T,C,NSP3,T428T,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:T428T,1,0.181
+2969,A,G,NSP3,M84V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:M84V,1,0.181
+25183,G,T,S,E1207D,SNP,Spike,S:E1207D,1,0.181
+20733,T,C,NSP16,C25C,SNP_silent,2'-O-ribose methyltransferase,NSP16:C25C,1,0.181
+17280,G,T,NSP13,V348V,SNP_silent,Helicase,NSP13:V348V,1,0.181
+14991,T,C,NSP12b,D508D,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:D508D,1,0.181
+16968,G,T,NSP13,E244D,SNP,Helicase,NSP13:E244D,1,0.181
+29732,C,T,3'UTR,29732,extragenic,,3'UTR:29732,1,0.181
+19935,T,A,NSP15,T105T,SNP_silent,endoRNAse,NSP15:T105T,1,0.181
+16204,G,A,NSP12b,E913K,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:E913K,1,0.181
+25235,A,G,S,I1225V,SNP,Spike,S:I1225V,1,0.181
+18675,A,C,NSP14,R212S,SNP,3'-to-5' exonuclease,NSP14:R212S,1,0.181
+11620,C,T,NSP6,F216F,SNP_silent,Transmembrane protein,NSP6:F216F,1,0.181
+7029,C,T,NSP3,S1437F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S1437F,1,0.181
+26333,C,T,E,T30I,SNP,Envelope,E:T30I,1,0.181
+6629,C,T,NSP3,L1304F,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1304F,1,0.181
+5680,T,C,NSP3,V987V,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:V987V,1,0.181
+7069,A,C,NSP3,E1450D,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:E1450D,1,0.181
+24022,T,C,S,D820D,SNP_silent,Spike,S:D820D,1,0.181
+7783,T,C,NSP3,D1688D,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:D1688D,1,0.181
+7981,A,G,NSP3,L1754L,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:L1754L,1,0.181
+10328,G,A,NSP5,D92N,SNP,3C-like proteinase,NSP5:D92N,1,0.181
+17944,G,T,NSP13,V570L,SNP,Helicase,NSP13:V570L,1,0.181
+13402,T,C,NSP10,Y126Y,SNP_silent,Growth-factor-like protein,NSP10:Y126Y,1,0.181
+12145,T,C,NSP8,A18A,SNP_silent,Non-Structural Protein 8,NSP8:A18A,1,0.181
+2659,G,T,NSP2,K618N,SNP,Non-Structural protein 2,NSP2:K618N,1,0.181
+4900,C,T,NSP3,H727H,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:H727H,1,0.181
+3768,C,T,NSP3,T350I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T350I,1,0.181
+3245,A,T,NSP3,S176C,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:S176C,1,0.181
+22560,C,A,S,T333K,SNP,Spike,S:T333K,1,0.181
+26804,C,T,M,S94S,SNP_silent,Membrane,M:S94S,1,0.181
+25359,A,G,S,K1266R,SNP,Spike,S:K1266R,1,0.181
+8303,G,A,NSP3,V1862I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V1862I,1,0.181
+6067,T,C,NSP3,N1116N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N1116N,1,0.181
+3987,C,T,NSP3,T423I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T423I,1,0.181
+9473,G,A,NSP4,A307T,SNP,Transmembrane protein,NSP4:A307T,1,0.181
+10789,C,T,NSP5,D245D,SNP_silent,3C-like proteinase,NSP5:D245D,1,0.181
+5281,C,T,NSP3,N854N,SNP_silent,"Predicted phosphoesterase, papain-like proteinase",NSP3:N854N,1,0.181
+1268,G,A,NSP2,D155N,SNP,Non-Structural protein 2,NSP2:D155N,1,0.181
+5274,C,T,NSP3,A852V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:A852V,1,0.181
+4508,G,A,NSP3,V597M,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:V597M,1,0.181
+29736,G,T,3'UTR,29736,extragenic,,3'UTR:29736,1,0.181
+6366,A,G,NSP3,Q1216R,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:Q1216R,1,0.181
+16877,C,T,NSP13,T214I,SNP,Helicase,NSP13:T214I,1,0.181
+21624,G,A,S,R21K,SNP,Spike,S:R21K,1,0.181
+18456,A,G,NSP14,K139K,SNP_silent,3'-to-5' exonuclease,NSP14:K139K,1,0.181
+1973,C,T,NSP2,I389I,SNP_silent,Non-Structural protein 2,NSP2:I389I,1,0.181
+17518,C,T,NSP13,L428F,SNP,Helicase,NSP13:L428F,1,0.181
+27847,C,T,ORF7b,S31L,SNP,ORF7b protein,ORF7b:S31L,1,0.181
+29717,G,A,3'UTR,29717,extragenic,,3'UTR:29717,1,0.181
+11300,C,T,NSP6,K109K,SNP_silent,Transmembrane protein,NSP6:K109K,1,0.181
+16647,G,T,NSP13,T137T,SNP_silent,Helicase,NSP13:T137T,1,0.181
+22474,A,C,S,K304N,SNP,Spike,S:K304N,1,0.181
+1141,G,A,NSP2,K112K,SNP_silent,Non-Structural protein 2,NSP2:K112K,1,0.181
+27074,G,T,M,S184S,SNP_silent,Membrane,M:S184S,1,0.181
+20940,G,T,NSP16,L94L,SNP_silent,2'-O-ribose methyltransferase,NSP16:L94L,1,0.181
+27944,C,T,ORF8,H17H,SNP_silent,ORF8 protein,ORF8:H17H,1,0.181
+379,C,T,NSP1,V38V,SNP_silent,Leader protein,NSP1:V38V,1,0.181
+23230,C,T,S,N556N,SNP_silent,Spike,S:N556N,1,0.181
+10228,C,T,NSP5,L58L,SNP_silent,3C-like proteinase,NSP5:L58L,1,0.181
+27378,G,A,ORF6,E59E,SNP_silent,ORF6 protein,ORF6:E59E,1,0.181
+14396,C,T,NSP12b,T310I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T310I,1,0.181
+21846,C,T,S,T95I,SNP,Spike,S:T95I,1,0.181
+13512,A,G,NSP12b,T15T,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:T15T,1,0.181
+13824,C,T,NSP12b,V119V,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:V119V,1,0.181
+27580,T,C,ORF7a,F63L,SNP,ORF7a protein,ORF7a:F63L,1,0.181
+27794,TT,.,ORF7b,F13,deletion_frameshift,ORF7b protein,ORF7b:F13,1,0.181
+24316,G,A,S,E918E,SNP_silent,Spike,S:E918E,1,0.181
+20963,A,G,NSP16,D102G,SNP,2'-O-ribose methyltransferase,NSP16:D102G,1,0.181
+22669,T,C,S,Y369Y,SNP_silent,Spike,S:Y369Y,1,0.181
+3264,C,T,NSP3,T182I,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:T182I,1,0.181
+28706,C,T,N,H145Y,SNP,Nucleocapsid protein,N:H145Y,1,0.181
+28001,G,T,ORF8,P36P,SNP_silent,ORF8 protein,ORF8:P36P,1,0.181
+28735,T,C,N,N154N,SNP_silent,Nucleocapsid protein,N:N154N,1,0.181
+1385,C,T,NSP2,H194Y,SNP,Non-Structural protein 2,NSP2:H194Y,1,0.181
+7340,A,G,NSP3,I1541V,SNP,"Predicted phosphoesterase, papain-like proteinase",NSP3:I1541V,1,0.181
+10277,C,A,NSP5,L75I,SNP,3C-like proteinase,NSP5:L75I,1,0.181
+12775,T,C,NSP9,A30A,SNP_silent,ssRNA-binding protein,NSP9:A30A,1,0.181
+15588,C,T,NSP12b,A707A,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:A707A,1,0.181
+10525,C,T,NSP5,V157V,SNP_silent,3C-like proteinase,NSP5:V157V,1,0.181
+13331,T,C,NSP10,C103R,SNP,Growth-factor-like protein,NSP10:C103R,1,0.181
+27863,T,C,ORF7b,D36D,SNP_silent,ORF7b protein,ORF7b:D36D,1,0.181
+27544,G,T,ORF7a,D51Y,SNP,ORF7a protein,ORF7a:D51Y,1,0.181
+25275,C,T,S,T1238I,SNP,Spike,S:T1238I,1,0.181
+27644,C,T,ORF7a,P84L,SNP,ORF7a protein,ORF7a:P84L,1,0.181
+27983,A,C,ORF8,P30P,SNP_silent,ORF8 protein,ORF8:P30P,1,0.181
+27442,C,T,ORF7a,L17F,SNP,ORF7a protein,ORF7a:L17F,1,0.181
+19602,C,T,NSP14,N521N,SNP_silent,3'-to-5' exonuclease,NSP14:N521N,1,0.181
+30,A,C,5'UTR,30,extragenic,,5'UTR:30,1,0.181
+12513,C,A,NSP8,T141K,SNP,Non-Structural Protein 8,NSP8:T141K,1,0.181
+7891,TTT,.,NSP3,F1725,deletion,"Predicted phosphoesterase, papain-like proteinase",NSP3:F1725,1,0.181
+19270,T,A,NSP14,L411M,SNP,3'-to-5' exonuclease,NSP14:L411M,1,0.181
+17572,G,T,NSP13,A446S,SNP,Helicase,NSP13:A446S,1,0.181
+25439,A,G,ORF3a,K16R,SNP,ORF3a protein,ORF3a:K16R,1,0.181
+14792,G,T,NSP12b,S442I,SNP,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:S442I,1,0.181
+13611,A,G,NSP12b,Q48Q,SNP_silent,"RNA-dependent RNA polymerase, post-ribosomal frameshift",NSP12b:Q48Q,1,0.181
+25864,A,T,ORF3a,I158L,SNP,ORF3a protein,ORF3a:I158L,1,0.181
+29079,A,C,N,N269T,SNP,Nucleocapsid protein,N:N269T,1,0.181

@@ -1,0 +1,18 @@
+Jump number 1
+number of sequences: 11
+number of mutations: 13
+the jump is: ['EPI_ISL_10079203', 'EPI_ISL_10079216', 'EPI_ISL_10079231', 'EPI_ISL_11221226', 'EPI_ISL_11776163', 'EPI_ISL_11776165', 'EPI_ISL_11776191', 'EPI_ISL_11776192', 'EPI_ISL_12305044', 'EPI_ISL_7900788', 'EPI_ISL_8528732']
+the mutations are: ['A11206G', 'C23638T', 'C12756T', 'C25585G', 'G29742T', 'C24707A', 'G19936A', 'C14110A', 'G2747T', 'C2902T', 'G20433T', 'C11036A', 'C27752T']
+*****
+Jump number 2
+number of sequences: 3
+number of mutations: 9
+the jump is: ['EPI_ISL_10883114', 'EPI_ISL_9416740', 'EPI_ISL_9416753']
+the mutations are: ['A13533G', 'C24370T', 'C25300T', 'C28311T', 'G29742T', 'T25627C', 'G25644T', 'C12890T', 'C29870A']
+*****
+Jump number 3
+number of sequences: 4
+number of mutations: 7
+the jump is: ['EPI_ISL_9670643', 'EPI_ISL_9670644', 'EPI_ISL_9670645', 'EPI_ISL_9670647']
+the mutations are: ['G12613A', 'C12513T', 'A19359G', 'G29742T', 'C20930T', 'C25585G', 'C27752T']
+*****

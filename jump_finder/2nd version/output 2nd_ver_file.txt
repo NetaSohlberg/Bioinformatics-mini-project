@@ -1,0 +1,6 @@
+Jump number 1
+number of sequences: 7
+number of mutations: 10
+the jump is: ['EPI_ISL_4578887', 'EPI_ISL_4578889', 'EPI_ISL_5159273', 'EPI_ISL_7928773', 'EPI_ISL_7928799', 'EPI_ISL_7928804', 'EPI_ISL_7928808']
+the mutations are: ['ORF3a:A110S', 'NSP3:K977Q', 'S:F175', 'S:S477N', 'M:I82T', 'S:H69N', 'S:P681H', 'S:D571E', 'S:D737E', 'ORF7a:L31L']
+*****
